@@ -1,3 +1,4 @@
+
 CREATE database project_db;
 USE project_db;
 /*
@@ -14,7 +15,5 @@ geocoding__primary_x_coordinate FLOAT,
 geocoding__primary_y_coordinate FLOAT)
 ;
 */
-
-SHOW TABLES;
 SELECT * FROM project_db;
 
