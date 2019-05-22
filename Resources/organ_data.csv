@@ -1,0 +1,810 @@
+id,organ_transplantation_type,organ_procurement_organization_name,organ_procurement_organization_city,county,state,state_abbreviation,data_warehouse_record_create_date_text,geocoding__primary_x_coordinate,geocoding_primary_y_coordinate
+0,Kidney,Alabama Organ Center,Birmingham,Jefferson County,Alabama,AL,10/25/18,-86.8048235,33.50351964
+1,Liver,Alabama Organ Center,Birmingham,Jefferson County,Alabama,AL,10/25/18,-86.8048235,33.50351964
+2,Heart,Alabama Organ Center,Birmingham,Jefferson County,Alabama,AL,10/25/18,-86.8048235,33.50351964
+3,Kidney,Alabama Organ Center,Birmingham,Jefferson County,Alabama,AL,10/25/18,-86.81463676,33.48393034
+4,Pancreas,Alabama Organ Center,Birmingham,Jefferson County,Alabama,AL,10/25/18,-86.81463676,33.48393034
+5,Pancreas Islet,Alabama Organ Center,Birmingham,Jefferson County,Alabama,AL,10/25/18,-86.81463676,33.48393034
+6,Liver,Alabama Organ Center,Birmingham,Jefferson County,Alabama,AL,10/25/18,-86.81463676,33.48393034
+7,Intestine,Alabama Organ Center,Birmingham,Jefferson County,Alabama,AL,10/25/18,-86.81463676,33.48393034
+8,Heart,Alabama Organ Center,Birmingham,Jefferson County,Alabama,AL,10/25/18,-86.81463676,33.48393034
+9,Lung,Alabama Organ Center,Birmingham,Jefferson County,Alabama,AL,10/25/18,-86.81463676,33.48393034
+10,Kidney,Alabama Organ Center,Birmingham,Jefferson County,Alabama,AL,10/25/18,-86.80125286,33.50507976
+11,Heart,Arkansas Regional Organ Recovery Agency,Little Rock,Pulaski County,Arkansas,AR,10/25/18,-92.34247903,34.74498276
+12,Kidney,Arkansas Regional Organ Recovery Agency,Little Rock,Pulaski County,Arkansas,AR,10/25/18,-92.29152689,34.74345911
+13,Heart,Arkansas Regional Organ Recovery Agency,Little Rock,Pulaski County,Arkansas,AR,10/25/18,-92.29152689,34.74345911
+14,Kidney,Arkansas Regional Organ Recovery Agency,Little Rock,Pulaski County,Arkansas,AR,10/25/18,-92.32074491,34.75148943
+15,Liver,Arkansas Regional Organ Recovery Agency,Little Rock,Pulaski County,Arkansas,AR,10/25/18,-92.32074491,34.75148943
+16,Kidney,Donor Network of Arizona,Phoenix,Maricopa County,Arizona,AZ,10/25/18,-112.040433,33.48022652
+17,Liver,Donor Network of Arizona,Phoenix,Maricopa County,Arizona,AZ,10/25/18,-112.040433,33.48022652
+18,Heart,Donor Network of Arizona,Phoenix,Maricopa County,Arizona,AZ,10/25/18,-112.040433,33.48022652
+19,Kidney,Donor Network of Arizona,Phoenix,Maricopa County,Arizona,AZ,10/25/18,-112.056349,33.46403138
+20,Pancreas,Donor Network of Arizona,Phoenix,Maricopa County,Arizona,AZ,10/25/18,-112.056349,33.46403138
+21,Liver,Donor Network of Arizona,Phoenix,Maricopa County,Arizona,AZ,10/25/18,-112.056349,33.46403138
+22,Kidney,Donor Network of Arizona,Phoenix,Maricopa County,Arizona,AZ,10/25/18,-111.9543636,33.66279924
+23,Pancreas,Donor Network of Arizona,Phoenix,Maricopa County,Arizona,AZ,10/25/18,-111.9543636,33.66279924
+24,Liver,Donor Network of Arizona,Phoenix,Maricopa County,Arizona,AZ,10/25/18,-111.9543636,33.66279924
+25,Heart,Donor Network of Arizona,Phoenix,Maricopa County,Arizona,AZ,10/25/18,-111.9543636,33.66279924
+26,Vascularized Composite Allograft (VCA),Donor Network of Arizona,Phoenix,Maricopa County,Arizona,AZ,10/25/18,-111.9543636,33.66279924
+27,Kidney,Donor Network of Arizona,Phoenix,Maricopa County,Arizona,AZ,10/25/18,-112.0798099,33.48038354
+28,Liver,Donor Network of Arizona,Phoenix,Maricopa County,Arizona,AZ,10/25/18,-112.0798099,33.48038354
+29,Lung,Donor Network of Arizona,Phoenix,Maricopa County,Arizona,AZ,10/25/18,-112.0798099,33.48038354
+30,Kidney,Donor Network of Arizona,Phoenix,Pima County,Arizona,AZ,10/25/18,-110.944135,32.240799
+31,Pancreas,Donor Network of Arizona,Phoenix,Pima County,Arizona,AZ,10/25/18,-110.944135,32.240799
+32,Liver,Donor Network of Arizona,Phoenix,Pima County,Arizona,AZ,10/25/18,-110.944135,32.240799
+33,Intestine,Donor Network of Arizona,Phoenix,Pima County,Arizona,AZ,10/25/18,-110.944135,32.240799
+34,Heart,Donor Network of Arizona,Phoenix,Pima County,Arizona,AZ,10/25/18,-110.944135,32.240799
+35,Lung,Donor Network of Arizona,Phoenix,Pima County,Arizona,AZ,10/25/18,-110.944135,32.240799
+36,Kidney,Lifesharing - A Donate Life Organization,San Diego,San Diego County,California,CA,10/25/18,-117.1507454,32.79636352
+37,Heart,Lifesharing - A Donate Life Organization,San Diego,San Diego County,California,CA,10/25/18,-117.1507454,32.79636352
+38,Kidney,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.2906115,34.09807795
+39,Pancreas,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.2906115,34.09807795
+40,Liver,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.2906115,34.09807795
+41,Intestine,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.2906115,34.09807795
+42,Heart,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.2906115,34.09807795
+43,Kidney,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.3805615,34.07681049
+44,Liver,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.3805615,34.07681049
+45,Heart,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.3805615,34.07681049
+46,Lung,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.3805615,34.07681049
+47,Kidney,Lifesharing - A Donate Life Organization,San Diego,San Diego County,California,CA,10/25/18,-117.2417747,32.89640932
+48,Pancreas,Lifesharing - A Donate Life Organization,San Diego,San Diego County,California,CA,10/25/18,-117.2417747,32.89640932
+49,Liver,Lifesharing - A Donate Life Organization,San Diego,San Diego County,California,CA,10/25/18,-117.2417747,32.89640932
+50,Pancreas Islet,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-117.9735599,34.13219254
+51,Kidney,OneLegacy,Los Angeles,Orange County,California,CA,10/25/18,-117.890709,33.78700854
+52,Pancreas,OneLegacy,Los Angeles,Orange County,California,CA,10/25/18,-117.890709,33.78700854
+53,Kidney,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.293532,33.83154754
+54,Pancreas Islet,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.293532,33.83154754
+55,Kidney,OneLegacy,Los Angeles,San Bernardino County,California,CA,10/25/18,-117.2512844,34.04806351
+56,Pancreas,OneLegacy,Los Angeles,San Bernardino County,California,CA,10/25/18,-117.2512844,34.04806351
+57,Liver,OneLegacy,Los Angeles,San Bernardino County,California,CA,10/25/18,-117.2512844,34.04806351
+58,Heart,OneLegacy,Los Angeles,San Bernardino County,California,CA,10/25/18,-117.2512844,34.04806351
+59,Kidney,Donor Network West,San Ramon,San Francisco County,California,CA,10/25/18,-122.3904234,37.76522187
+60,Pancreas,Donor Network West,San Ramon,San Francisco County,California,CA,10/25/18,-122.3904234,37.76522187
+61,Liver,Donor Network West,San Ramon,San Francisco County,California,CA,10/25/18,-122.3904234,37.76522187
+62,Heart,Donor Network West,San Ramon,San Francisco County,California,CA,10/25/18,-122.3904234,37.76522187
+63,Kidney,Donor Network West,San Ramon,Santa Clara County,California,CA,10/25/18,-122.1747674,37.43729902
+64,Pancreas,Donor Network West,San Ramon,Santa Clara County,California,CA,10/25/18,-122.1747674,37.43729902
+65,Liver,Donor Network West,San Ramon,Santa Clara County,California,CA,10/25/18,-122.1747674,37.43729902
+66,Intestine,Donor Network West,San Ramon,Santa Clara County,California,CA,10/25/18,-122.1747674,37.43729902
+67,Heart,Donor Network West,San Ramon,Santa Clara County,California,CA,10/25/18,-122.1747674,37.43729902
+68,Lung,Donor Network West,San Ramon,Santa Clara County,California,CA,10/25/18,-122.1747674,37.43729902
+69,Kidney,Donor Network West,San Ramon,San Francisco County,California,CA,10/25/18,-122.4308562,37.79067725
+70,Pancreas,Donor Network West,San Ramon,San Francisco County,California,CA,10/25/18,-122.4308562,37.79067725
+71,Liver,Donor Network West,San Ramon,San Francisco County,California,CA,10/25/18,-122.4308562,37.79067725
+72,Heart,Donor Network West,San Ramon,San Francisco County,California,CA,10/25/18,-122.4308562,37.79067725
+73,Kidney,OneLegacy,Los Angeles,Riverside County,California,CA,10/25/18,-117.3801659,33.97592159
+74,Kidney,Lifesharing - A Donate Life Organization,San Diego,San Diego County,California,CA,10/25/18,-117.165551,32.75379752
+75,Pancreas,Lifesharing - A Donate Life Organization,San Diego,San Diego County,California,CA,10/25/18,-117.165551,32.75379752
+76,Liver,Lifesharing - A Donate Life Organization,San Diego,San Diego County,California,CA,10/25/18,-117.165551,32.75379752
+77,Heart,Lifesharing - A Donate Life Organization,San Diego,San Diego County,California,CA,10/25/18,-117.165551,32.75379752
+78,Lung,Lifesharing - A Donate Life Organization,San Diego,San Diego County,California,CA,10/25/18,-117.165551,32.75379752
+79,Kidney,Donor Network West,San Ramon,San Francisco County,California,CA,10/25/18,-122.4541564,37.76440322
+80,Pancreas,Donor Network West,San Ramon,San Francisco County,California,CA,10/25/18,-122.4541564,37.76440322
+81,Pancreas Islet,Donor Network West,San Ramon,San Francisco County,California,CA,10/25/18,-122.4541564,37.76440322
+82,Liver,Donor Network West,San Ramon,San Francisco County,California,CA,10/25/18,-122.4541564,37.76440322
+83,Intestine,Donor Network West,San Ramon,San Francisco County,California,CA,10/25/18,-122.4541564,37.76440322
+84,Heart,Donor Network West,San Ramon,San Francisco County,California,CA,10/25/18,-122.4541564,37.76440322
+85,Lung,Donor Network West,San Ramon,San Francisco County,California,CA,10/25/18,-122.4541564,37.76440322
+86,Heart,Sierra Donor Services,West Sacramento,Sacramento County,California,CA,10/25/18,-121.4698612,38.57038623
+87,Kidney,Lifesharing - A Donate Life Organization,San Diego,San Diego County,California,CA,10/25/18,-117.1552495,32.80021597
+88,Pancreas,Lifesharing - A Donate Life Organization,San Diego,San Diego County,California,CA,10/25/18,-117.1552495,32.80021597
+89,Heart,Lifesharing - A Donate Life Organization,San Diego,San Diego County,California,CA,10/25/18,-117.1552495,32.80021597
+90,Kidney,OneLegacy,Los Angeles,Orange County,California,CA,10/25/18,-117.8648515,33.78236253
+91,Kidney,Sierra Donor Services,West Sacramento,Sacramento County,California,CA,10/25/18,-121.4575014,38.55434599
+92,Pancreas,Sierra Donor Services,West Sacramento,Sacramento County,California,CA,10/25/18,-121.4575014,38.55434599
+93,Heart,Sierra Donor Services,West Sacramento,Sacramento County,California,CA,10/25/18,-121.4575014,38.55434599
+94,Kidney,Donor Network West,San Ramon,Santa Clara County,California,CA,10/25/18,-122.1758815,37.43303549
+95,Pancreas,Donor Network West,San Ramon,Santa Clara County,California,CA,10/25/18,-122.1758815,37.43303549
+96,Liver,Donor Network West,San Ramon,Santa Clara County,California,CA,10/25/18,-122.1758815,37.43303549
+97,Intestine,Donor Network West,San Ramon,Santa Clara County,California,CA,10/25/18,-122.1758815,37.43303549
+98,Heart,Donor Network West,San Ramon,Santa Clara County,California,CA,10/25/18,-122.1758815,37.43303549
+99,Lung,Donor Network West,San Ramon,Santa Clara County,California,CA,10/25/18,-122.1758815,37.43303549
+100,Kidney,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.2733861,34.06315091
+101,Pancreas,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.2733861,34.06315091
+102,Kidney,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.4454036,34.06589269
+103,Pancreas,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.4454036,34.06589269
+104,Liver,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.4454036,34.06589269
+105,Intestine,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.4454036,34.06589269
+106,Heart,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.4454036,34.06589269
+107,Lung,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.4454036,34.06589269
+108,Vascularized Composite Allograft (VCA),OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.4454036,34.06589269
+109,Kidney,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.2032121,34.0620121
+110,Pancreas,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.2032121,34.0620121
+111,Liver,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.2032121,34.0620121
+112,Heart,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.2032121,34.0620121
+113,Lung,OneLegacy,Los Angeles,Los Angeles County,California,CA,10/25/18,-118.2032121,34.0620121
+114,Kidney,Donor Alliance,Denver,Adams County,Colorado,CO,10/25/18,-104.8366043,39.74113735
+115,Liver,Donor Alliance,Denver,Adams County,Colorado,CO,10/25/18,-104.8366043,39.74113735
+116,Heart,Donor Alliance,Denver,Adams County,Colorado,CO,10/25/18,-104.8366043,39.74113735
+117,Kidney,Donor Alliance,Denver,Denver County,Colorado,CO,10/25/18,-104.9735187,39.67003736
+118,Pancreas,Donor Alliance,Denver,Denver County,Colorado,CO,10/25/18,-104.9735187,39.67003736
+119,Liver,Donor Alliance,Denver,Denver County,Colorado,CO,10/25/18,-104.9735187,39.67003736
+120,Kidney,Donor Alliance,Denver,Denver County,Colorado,CO,10/25/18,-104.9667405,39.74608147
+121,Liver,Donor Alliance,Denver,Denver County,Colorado,CO,10/25/18,-104.9667405,39.74608147
+122,Kidney,Donor Alliance,Denver,Adams County,Colorado,CO,10/25/18,-104.8375451,39.74234061
+123,Pancreas,Donor Alliance,Denver,Adams County,Colorado,CO,10/25/18,-104.8375451,39.74234061
+124,Liver,Donor Alliance,Denver,Adams County,Colorado,CO,10/25/18,-104.8375451,39.74234061
+125,Heart,Donor Alliance,Denver,Adams County,Colorado,CO,10/25/18,-104.8375451,39.74234061
+126,Lung,Donor Alliance,Denver,Adams County,Colorado,CO,10/25/18,-104.8375451,39.74234061
+127,Kidney,LifeChoice Donor Services,Bloomfield,Hartford County,Connecticut,CT,10/25/18,-72.68076342,41.75375286
+128,Liver,LifeChoice Donor Services,Bloomfield,Hartford County,Connecticut,CT,10/25/18,-72.68076342,41.75375286
+129,Heart,LifeChoice Donor Services,Bloomfield,Hartford County,Connecticut,CT,10/25/18,-72.68076342,41.75375286
+130,Kidney,New England Organ Bank,Waltham,New Haven County,Connecticut,CT,10/25/18,-72.93404055,41.30299527
+131,Liver,New England Organ Bank,Waltham,New Haven County,Connecticut,CT,10/25/18,-72.93404055,41.30299527
+132,Heart,New England Organ Bank,Waltham,New Haven County,Connecticut,CT,10/25/18,-72.93404055,41.30299527
+133,Kidney,Washington Regional Transplant Community,Falls Church,District of Columbia,District of Columbia,DC,10/25/18,-77.013756,38.927682
+134,Heart,Washington Regional Transplant Community,Falls Church,District of Columbia,District of Columbia,DC,10/25/18,-77.013756,38.927682
+135,Kidney,Washington Regional Transplant Community,Falls Church,District of Columbia,District of Columbia,DC,10/25/18,-77.07530699,38.912013
+136,Pancreas,Washington Regional Transplant Community,Falls Church,District of Columbia,District of Columbia,DC,10/25/18,-77.07530699,38.912013
+137,Liver,Washington Regional Transplant Community,Falls Church,District of Columbia,District of Columbia,DC,10/25/18,-77.07530699,38.912013
+138,Intestine,Washington Regional Transplant Community,Falls Church,District of Columbia,District of Columbia,DC,10/25/18,-77.07530699,38.912013
+139,Kidney,Washington Regional Transplant Community,Falls Church,District of Columbia,District of Columbia,DC,10/25/18,-77.050341,38.90158199
+140,Heart,Washington Regional Transplant Community,Falls Church,District of Columbia,District of Columbia,DC,10/25/18,-77.01634349,38.92954499
+141,Kidney,Washington Regional Transplant Community,Falls Church,Montgomery County,Maryland,MD,10/25/18,-77.09707095,39.00256144
+142,Kidney,Gift of Life Donor Program,Philadelphia,New Castle County,Delaware,DE,10/25/18,-75.5552542,39.78229142
+143,Pancreas,Gift of Life Donor Program,Philadelphia,New Castle County,Delaware,DE,10/25/18,-75.5552542,39.78229142
+144,Liver,Gift of Life Donor Program,Philadelphia,New Castle County,Delaware,DE,10/25/18,-75.5552542,39.78229142
+145,Intestine,Gift of Life Donor Program,Philadelphia,New Castle County,Delaware,DE,10/25/18,-75.5552542,39.78229142
+146,Heart,Gift of Life Donor Program,Philadelphia,New Castle County,Delaware,DE,10/25/18,-75.5552542,39.78229142
+147,Kidney,Gift of Life Donor Program,Philadelphia,New Castle County,Delaware,DE,10/25/18,-75.67359269,39.68961644
+148,Heart,LifeLink of Florida,Tampa,Pinellas County,Florida,FL,10/25/18,-82.6410015,27.76427748
+149,Liver,Life Alliance Organ Recovery Agency,Miami,Broward County,Florida,FL,10/25/18,-80.14206373,26.10084649
+150,Kidney,Life Alliance Organ Recovery Agency,Miami,Broward County,Florida,FL,10/25/18,-80.3652409,26.0836889
+151,Liver,Life Alliance Organ Recovery Agency,Miami,Broward County,Florida,FL,10/25/18,-80.3652409,26.0836889
+152,Heart,Life Alliance Organ Recovery Agency,Miami,Broward County,Florida,FL,10/25/18,-80.3652409,26.0836889
+153,Kidney,TransLife,Winter Park,Orange County,Florida,FL,10/25/18,-81.37283871,28.57374003
+154,Pancreas,TransLife,Winter Park,Orange County,Florida,FL,10/25/18,-81.37283871,28.57374003
+155,Liver,TransLife,Winter Park,Orange County,Florida,FL,10/25/18,-81.37283871,28.57374003
+156,Heart,TransLife,Winter Park,Orange County,Florida,FL,10/25/18,-81.37283871,28.57374003
+157,Lung,TransLife,Winter Park,Orange County,Florida,FL,10/25/18,-81.37283871,28.57374003
+158,Kidney,LifeLink of Florida,Tampa,Lee County,Florida,FL,10/25/18,-81.85163126,26.54414036
+159,Kidney,TransLife,Winter Park,Volusia County,Florida,FL,10/25/18,-81.05473658,29.19939226
+160,Heart,Life Alliance Organ Recovery Agency,Miami,Broward County,Florida,FL,10/25/18,-80.18002468,26.0182255
+161,Kidney,Life Alliance Organ Recovery Agency,Miami,Miami-Dade County,Florida,FL,10/25/18,-80.21026348,25.79267122
+162,Pancreas,Life Alliance Organ Recovery Agency,Miami,Miami-Dade County,Florida,FL,10/25/18,-80.21026348,25.79267122
+163,Pancreas Islet,Life Alliance Organ Recovery Agency,Miami,Miami-Dade County,Florida,FL,10/25/18,-80.21026348,25.79267122
+164,Liver,Life Alliance Organ Recovery Agency,Miami,Miami-Dade County,Florida,FL,10/25/18,-80.21026348,25.79267122
+165,Intestine,Life Alliance Organ Recovery Agency,Miami,Miami-Dade County,Florida,FL,10/25/18,-80.21026348,25.79267122
+166,Heart,Life Alliance Organ Recovery Agency,Miami,Miami-Dade County,Florida,FL,10/25/18,-80.21026348,25.79267122
+167,Lung,Life Alliance Organ Recovery Agency,Miami,Miami-Dade County,Florida,FL,10/25/18,-80.21026348,25.79267122
+168,Vascularized Composite Allograft (VCA),Life Alliance Organ Recovery Agency,Miami,Miami-Dade County,Florida,FL,10/25/18,-80.21026348,25.79267122
+169,Kidney,LifeLink of Florida,Tampa,Pinellas County,Florida,FL,10/25/18,-82.80270112,27.91446299
+170,Liver,LifeLink of Florida,Tampa,Pinellas County,Florida,FL,10/25/18,-82.80270112,27.91446299
+171,Kidney,Life Alliance Organ Recovery Agency,Miami,Broward County,Florida,FL,10/25/18,-80.18002468,26.0182255
+172,Heart,Life Alliance Organ Recovery Agency,Miami,Broward County,Florida,FL,10/25/18,-80.18002468,26.0182255
+173,Kidney,LifeQuest Organ Recovery Services,Gainesville,Escambia County,Florida,FL,10/25/18,-87.2114984,30.47470085
+174,Kidney,LifeQuest Organ Recovery Services,Gainesville,Duval County,Florida,FL,10/25/18,-81.43757269,30.26393466
+175,Pancreas,LifeQuest Organ Recovery Services,Gainesville,Duval County,Florida,FL,10/25/18,-81.43757269,30.26393466
+176,Liver,LifeQuest Organ Recovery Services,Gainesville,Duval County,Florida,FL,10/25/18,-81.43757269,30.26393466
+177,Heart,LifeQuest Organ Recovery Services,Gainesville,Duval County,Florida,FL,10/25/18,-81.43757269,30.26393466
+178,Lung,LifeQuest Organ Recovery Services,Gainesville,Duval County,Florida,FL,10/25/18,-81.43757269,30.26393466
+179,Kidney,LifeLink of Florida,Tampa,Hillsborough County,Florida,FL,10/25/18,-82.44674999,27.90944
+180,Pancreas,LifeLink of Florida,Tampa,Hillsborough County,Florida,FL,10/25/18,-82.44674999,27.90944
+181,Liver,LifeLink of Florida,Tampa,Hillsborough County,Florida,FL,10/25/18,-82.44674999,27.90944
+182,Heart,LifeLink of Florida,Tampa,Hillsborough County,Florida,FL,10/25/18,-82.44674999,27.90944
+183,Lung,LifeLink of Florida,Tampa,Hillsborough County,Florida,FL,10/25/18,-82.44674999,27.90944
+184,Kidney,LifeQuest Organ Recovery Services,Gainesville,Alachua County,Florida,FL,10/25/18,-82.34339553,29.63926245
+185,Pancreas,LifeQuest Organ Recovery Services,Gainesville,Alachua County,Florida,FL,10/25/18,-82.34339553,29.63926245
+186,Liver,LifeQuest Organ Recovery Services,Gainesville,Alachua County,Florida,FL,10/25/18,-82.34339553,29.63926245
+187,Heart,LifeQuest Organ Recovery Services,Gainesville,Alachua County,Florida,FL,10/25/18,-82.34339553,29.63926245
+188,Lung,LifeQuest Organ Recovery Services,Gainesville,Alachua County,Florida,FL,10/25/18,-82.34339553,29.63926245
+189,Kidney,LifeLink of Georgia,Peachtree Corners,DeKalb County,Georgia,GA,10/25/18,-84.32096841,33.79398299
+190,Liver,LifeLink of Georgia,Peachtree Corners,DeKalb County,Georgia,GA,10/25/18,-84.32096841,33.79398299
+191,Heart,LifeLink of Georgia,Peachtree Corners,DeKalb County,Georgia,GA,10/25/18,-84.32096841,33.79398299
+192,Kidney,LifeLink of Georgia,Peachtree Corners,DeKalb County,Georgia,GA,10/25/18,-84.321017,33.79233694
+193,Pancreas,LifeLink of Georgia,Peachtree Corners,DeKalb County,Georgia,GA,10/25/18,-84.321017,33.79233694
+194,Pancreas Islet,LifeLink of Georgia,Peachtree Corners,DeKalb County,Georgia,GA,10/25/18,-84.321017,33.79233694
+195,Liver,LifeLink of Georgia,Peachtree Corners,DeKalb County,Georgia,GA,10/25/18,-84.321017,33.79233694
+196,Heart,LifeLink of Georgia,Peachtree Corners,DeKalb County,Georgia,GA,10/25/18,-84.321017,33.79233694
+197,Lung,LifeLink of Georgia,Peachtree Corners,DeKalb County,Georgia,GA,10/25/18,-84.321017,33.79233694
+198,Kidney,LifeLink of Georgia,Peachtree Corners,Richmond County,Georgia,GA,10/25/18,-81.99140452,33.47103145
+199,Pancreas,LifeLink of Georgia,Peachtree Corners,Richmond County,Georgia,GA,10/25/18,-81.99140452,33.47103145
+200,Kidney,LifeLink of Georgia,Peachtree Corners,Fulton County,Georgia,GA,10/25/18,-84.39365405,33.80817035
+201,Pancreas,LifeLink of Georgia,Peachtree Corners,Fulton County,Georgia,GA,10/25/18,-84.39365405,33.80817035
+202,Liver,LifeLink of Georgia,Peachtree Corners,Fulton County,Georgia,GA,10/25/18,-84.39365405,33.80817035
+203,Heart,LifeLink of Georgia,Peachtree Corners,Fulton County,Georgia,GA,10/25/18,-84.39365405,33.80817035
+204,Kidney,Legacy of Life Hawaii,Honolulu,Honolulu County,Hawaii,HI,10/25/18,-157.8552152,21.30753677
+205,Pancreas,Legacy of Life Hawaii,Honolulu,Honolulu County,Hawaii,HI,10/25/18,-157.8552152,21.30753677
+206,Liver,Legacy of Life Hawaii,Honolulu,Honolulu County,Hawaii,HI,10/25/18,-157.8552152,21.30753677
+207,Kidney,Iowa Donor Network,North Liberty,Polk County,Iowa,IA,10/25/18,-93.63305999,41.59064518
+208,Kidney,Iowa Donor Network,North Liberty,Johnson County,Iowa,IA,10/25/18,-91.55246622,41.66150129
+209,Pancreas,Iowa Donor Network,North Liberty,Johnson County,Iowa,IA,10/25/18,-91.55246622,41.66150129
+210,Liver,Iowa Donor Network,North Liberty,Johnson County,Iowa,IA,10/25/18,-91.55246622,41.66150129
+211,Heart,Iowa Donor Network,North Liberty,Johnson County,Iowa,IA,10/25/18,-91.55246622,41.66150129
+212,Lung,Iowa Donor Network,North Liberty,Johnson County,Iowa,IA,10/25/18,-91.55246622,41.66150129
+213,Kidney,Iowa Donor Network,North Liberty,Polk County,Iowa,IA,10/25/18,-93.6256239,41.59812817
+214,Pancreas,Iowa Donor Network,North Liberty,Polk County,Iowa,IA,10/25/18,-93.6256239,41.59812817
+215,Kidney,Iowa Donor Network,North Liberty,Johnson County,Iowa,IA,10/25/18,-91.54835379,41.66463858
+216,Kidney,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.73244266,41.72032763
+217,Heart,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.73244266,41.72032763
+218,Lung,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.73244266,41.72032763
+219,Kidney,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.62169149,41.89675749
+220,Pancreas,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.62169149,41.89675749
+221,Liver,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.62169149,41.89675749
+222,Intestine,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.62169149,41.89675749
+223,Heart,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.62169149,41.89675749
+224,Kidney,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.83340436,41.86165868
+225,Pancreas,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.83340436,41.86165868
+226,Liver,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.83340436,41.86165868
+227,Heart,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.83340436,41.86165868
+228,Lung,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.83340436,41.86165868
+229,Kidney,Gift of Hope Organ & Tissue Donor Network,Itasca,Sangamon County,Illinois,IL,10/25/18,-89.6546772,39.80967125
+230,Vascularized Composite Allograft (VCA),Gift of Hope Organ & Tissue Donor Network,Itasca,Sangamon County,Illinois,IL,10/25/18,-89.6546772,39.80967125
+231,Kidney,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.6203685,41.89492322
+232,Pancreas,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.6203685,41.89492322
+233,Pancreas Islet,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.6203685,41.89492322
+234,Liver,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.6203685,41.89492322
+235,Intestine,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.6203685,41.89492322
+236,Heart,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.6203685,41.89492322
+237,Lung,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.6203685,41.89492322
+238,Kidney,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.66798687,41.87506564
+239,Pancreas,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.66798687,41.87506564
+240,Liver,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.66798687,41.87506564
+241,Kidney,Gift of Hope Organ & Tissue Donor Network,Itasca,Peoria County,Illinois,IL,10/25/18,-89.59098884,40.70217807
+242,Pancreas,Gift of Hope Organ & Tissue Donor Network,Itasca,Peoria County,Illinois,IL,10/25/18,-89.59098884,40.70217807
+243,Kidney,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.60490715,41.78933774
+244,Pancreas,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.60490715,41.78933774
+245,Pancreas Islet,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.60490715,41.78933774
+246,Liver,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.60490715,41.78933774
+247,Intestine,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.60490715,41.78933774
+248,Heart,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.60490715,41.78933774
+249,Lung,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.60490715,41.78933774
+250,Vascularized Composite Allograft (VCA),Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.60490715,41.78933774
+251,Kidney,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.67042745,41.86928006
+252,Pancreas,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.67042745,41.86928006
+253,Pancreas Islet,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.67042745,41.86928006
+254,Liver,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.67042745,41.86928006
+255,Intestine,Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.67042745,41.86928006
+256,Vascularized Composite Allograft (VCA),Gift of Hope Organ & Tissue Donor Network,Itasca,Cook County,Illinois,IL,10/25/18,-87.67042745,41.86928006
+257,Kidney,Indiana Donor Network,Indianapolis,Marion County,Indiana,IN,10/25/18,-86.16480299,39.795012
+258,Pancreas,Indiana Donor Network,Indianapolis,Marion County,Indiana,IN,10/25/18,-86.16480299,39.795012
+259,Liver,Indiana Donor Network,Indianapolis,Marion County,Indiana,IN,10/25/18,-86.16480299,39.795012
+260,Intestine,Indiana Donor Network,Indianapolis,Marion County,Indiana,IN,10/25/18,-86.16480299,39.795012
+261,Heart,Indiana Donor Network,Indianapolis,Marion County,Indiana,IN,10/25/18,-86.16480299,39.795012
+262,Lung,Indiana Donor Network,Indianapolis,Marion County,Indiana,IN,10/25/18,-86.16480299,39.795012
+263,Kidney,Indiana Donor Network,Indianapolis,Allen County,Indiana,IN,10/25/18,-85.24501585,41.03803329
+264,Heart,Indiana Donor Network,Indianapolis,Allen County,Indiana,IN,10/25/18,-85.24501585,41.03803329
+265,Kidney,Indiana Donor Network,Indianapolis,Marion County,Indiana,IN,10/25/18,-86.19392829,39.908799
+266,Pancreas,Indiana Donor Network,Indianapolis,Marion County,Indiana,IN,10/25/18,-86.19392829,39.908799
+267,Heart,Indiana Donor Network,Indianapolis,Marion County,Indiana,IN,10/25/18,-86.19392829,39.908799
+268,Kidney,Midwest Transplant Network,Westwood,Wyandotte County,Kansas,KS,10/25/18,-94.6117781,39.05725793
+269,Pancreas,Midwest Transplant Network,Westwood,Wyandotte County,Kansas,KS,10/25/18,-94.6117781,39.05725793
+270,Liver,Midwest Transplant Network,Westwood,Wyandotte County,Kansas,KS,10/25/18,-94.6117781,39.05725793
+271,Heart,Midwest Transplant Network,Westwood,Wyandotte County,Kansas,KS,10/25/18,-94.6117781,39.05725793
+272,Kidney,Kentucky Organ Donor Affiliates,Louisville,Jefferson County,Kentucky,KY,10/25/18,-85.75121628,38.24932463
+273,Pancreas,Kentucky Organ Donor Affiliates,Louisville,Jefferson County,Kentucky,KY,10/25/18,-85.75121628,38.24932463
+274,Liver,Kentucky Organ Donor Affiliates,Louisville,Jefferson County,Kentucky,KY,10/25/18,-85.75121628,38.24932463
+275,Heart,Kentucky Organ Donor Affiliates,Louisville,Jefferson County,Kentucky,KY,10/25/18,-85.75121628,38.24932463
+276,Lung,Kentucky Organ Donor Affiliates,Louisville,Jefferson County,Kentucky,KY,10/25/18,-85.75121628,38.24932463
+277,Vascularized Composite Allograft (VCA),Kentucky Organ Donor Affiliates,Louisville,Jefferson County,Kentucky,KY,10/25/18,-85.75121628,38.24932463
+278,Kidney,Kentucky Organ Donor Affiliates,Louisville,Jefferson County,Kentucky,KY,10/25/18,-85.74981997,38.24808238
+279,Heart,Kentucky Organ Donor Affiliates,Louisville,Jefferson County,Kentucky,KY,10/25/18,-85.74981997,38.24808238
+280,Kidney,Kentucky Organ Donor Affiliates,Louisville,Fayette County,Kentucky,KY,10/25/18,-84.50856108,38.03415866
+281,Pancreas,Kentucky Organ Donor Affiliates,Louisville,Fayette County,Kentucky,KY,10/25/18,-84.50856108,38.03415866
+282,Liver,Kentucky Organ Donor Affiliates,Louisville,Fayette County,Kentucky,KY,10/25/18,-84.50856108,38.03415866
+283,Heart,Kentucky Organ Donor Affiliates,Louisville,Fayette County,Kentucky,KY,10/25/18,-84.50856108,38.03415866
+284,Lung,Kentucky Organ Donor Affiliates,Louisville,Fayette County,Kentucky,KY,10/25/18,-84.50856108,38.03415866
+285,Kidney,Louisiana Organ Procurement Agency,Metairie,Orleans Parish,Louisiana,LA,10/25/18,-90.12704903,29.91765984
+286,Kidney,Louisiana Organ Procurement Agency,Metairie,Jefferson Parish,Louisiana,LA,10/25/18,-90.14475604,29.96267071
+287,Pancreas,Louisiana Organ Procurement Agency,Metairie,Jefferson Parish,Louisiana,LA,10/25/18,-90.14475604,29.96267071
+288,Liver,Louisiana Organ Procurement Agency,Metairie,Jefferson Parish,Louisiana,LA,10/25/18,-90.14475604,29.96267071
+289,Heart,Louisiana Organ Procurement Agency,Metairie,Jefferson Parish,Louisiana,LA,10/25/18,-90.14475604,29.96267071
+290,Lung,Louisiana Organ Procurement Agency,Metairie,Jefferson Parish,Louisiana,LA,10/25/18,-90.14475604,29.96267071
+291,Kidney,Louisiana Organ Procurement Agency,Metairie,Orleans Parish,Louisiana,LA,10/25/18,-90.07663177,29.95535327
+292,Pancreas,Louisiana Organ Procurement Agency,Metairie,Orleans Parish,Louisiana,LA,10/25/18,-90.07663177,29.95535327
+293,Liver,Louisiana Organ Procurement Agency,Metairie,Orleans Parish,Louisiana,LA,10/25/18,-90.07663177,29.95535327
+294,Kidney,Louisiana Organ Procurement Agency,Metairie,Caddo Parish,Louisiana,LA,10/25/18,-93.77874106,32.48400395
+295,Pancreas,Louisiana Organ Procurement Agency,Metairie,Caddo Parish,Louisiana,LA,10/25/18,-93.77874106,32.48400395
+296,Liver,Louisiana Organ Procurement Agency,Metairie,Caddo Parish,Louisiana,LA,10/25/18,-93.77874106,32.48400395
+297,Kidney,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.10501174,42.34099616
+298,Pancreas,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.10501174,42.34099616
+299,Liver,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.10501174,42.34099616
+300,Kidney,LifeChoice Donor Services,Bloomfield,Hampden County,Massachusetts,MA,10/25/18,-72.60479068,42.11985439
+301,Kidney,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.0712098,42.33695648
+302,Kidney,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.10478225,42.33761049
+303,Pancreas,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.10478225,42.33761049
+304,Liver,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.10478225,42.33761049
+305,Intestine,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.10478225,42.33761049
+306,Heart,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.10478225,42.33761049
+307,Lung,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.10478225,42.33761049
+308,Vascularized Composite Allograft (VCA),New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.10478225,42.33761049
+309,Kidney,New England Organ Bank,Waltham,Middlesex County,Massachusetts,MA,10/25/18,-71.20599229,42.48641624
+310,Liver,New England Organ Bank,Waltham,Middlesex County,Massachusetts,MA,10/25/18,-71.20599229,42.48641624
+311,Kidney,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.069292,42.36248784
+312,Pancreas,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.069292,42.36248784
+313,Pancreas Islet,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.069292,42.36248784
+314,Liver,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.069292,42.36248784
+315,Intestine,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.069292,42.36248784
+316,Heart,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.069292,42.36248784
+317,Lung,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.069292,42.36248784
+318,Vascularized Composite Allograft (VCA),New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.069292,42.36248784
+319,Kidney,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.0633177,42.35025107
+320,Heart,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.0633177,42.35025107
+321,Kidney,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.10763672,42.33598252
+322,Pancreas,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.10763672,42.33598252
+323,Heart,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.10763672,42.33598252
+324,Lung,New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.10763672,42.33598252
+325,Vascularized Composite Allograft (VCA),New England Organ Bank,Waltham,Suffolk County,Massachusetts,MA,10/25/18,-71.10763672,42.33598252
+326,Kidney,New England Organ Bank,Waltham,Worcester County,Massachusetts,MA,10/25/18,-71.75908375,42.27865004
+327,Pancreas,New England Organ Bank,Waltham,Worcester County,Massachusetts,MA,10/25/18,-71.75908375,42.27865004
+328,Liver,New England Organ Bank,Waltham,Worcester County,Massachusetts,MA,10/25/18,-71.75908375,42.27865004
+329,Kidney,The Living Legacy Foundation of Maryland,Baltimore,Baltimore City,Maryland,MD,10/25/18,-76.59085538,39.29740971
+330,Pancreas,The Living Legacy Foundation of Maryland,Baltimore,Baltimore City,Maryland,MD,10/25/18,-76.59085538,39.29740971
+331,Liver,The Living Legacy Foundation of Maryland,Baltimore,Baltimore City,Maryland,MD,10/25/18,-76.59085538,39.29740971
+332,Heart,The Living Legacy Foundation of Maryland,Baltimore,Baltimore City,Maryland,MD,10/25/18,-76.59085538,39.29740971
+333,Lung,The Living Legacy Foundation of Maryland,Baltimore,Baltimore City,Maryland,MD,10/25/18,-76.59085538,39.29740971
+334,Vascularized Composite Allograft (VCA),The Living Legacy Foundation of Maryland,Baltimore,Baltimore City,Maryland,MD,10/25/18,-76.59085538,39.29740971
+335,Kidney,The Living Legacy Foundation of Maryland,Baltimore,Baltimore City,Maryland,MD,10/25/18,-76.62365936,39.28819688
+336,Pancreas,The Living Legacy Foundation of Maryland,Baltimore,Baltimore City,Maryland,MD,10/25/18,-76.62365936,39.28819688
+337,Liver,The Living Legacy Foundation of Maryland,Baltimore,Baltimore City,Maryland,MD,10/25/18,-76.62365936,39.28819688
+338,Heart,The Living Legacy Foundation of Maryland,Baltimore,Baltimore City,Maryland,MD,10/25/18,-76.62365936,39.28819688
+339,Lung,The Living Legacy Foundation of Maryland,Baltimore,Baltimore City,Maryland,MD,10/25/18,-76.62365936,39.28819688
+340,Vascularized Composite Allograft (VCA),The Living Legacy Foundation of Maryland,Baltimore,Baltimore City,Maryland,MD,10/25/18,-76.62365936,39.28819688
+341,Kidney,New England Organ Bank,Waltham,Cumberland County,Maine,ME,10/25/18,-70.27465997,43.65259921
+342,Kidney,Gift of Life Michigan,Ann Arbor,Oakland County,Michigan,MI,10/25/18,-83.191442,42.51772452
+343,Liver,Gift of Life Michigan,Ann Arbor,Oakland County,Michigan,MI,10/25/18,-83.191442,42.51772452
+344,Kidney,Gift of Life Michigan,Ann Arbor,Wayne County,Michigan,MI,10/25/18,-83.05380908,42.35182919
+345,Liver,Gift of Life Michigan,Ann Arbor,Wayne County,Michigan,MI,10/25/18,-83.05380908,42.35182919
+346,Heart,Gift of Life Michigan,Ann Arbor,Wayne County,Michigan,MI,10/25/18,-83.05380908,42.35182919
+347,Kidney,Gift of Life Michigan,Ann Arbor,Kent County,Michigan,MI,10/25/18,-85.6664534,42.9704039
+348,Kidney,Gift of Life Michigan,Ann Arbor,Wayne County,Michigan,MI,10/25/18,-83.0845621,42.36618433
+349,Pancreas,Gift of Life Michigan,Ann Arbor,Wayne County,Michigan,MI,10/25/18,-83.0845621,42.36618433
+350,Liver,Gift of Life Michigan,Ann Arbor,Wayne County,Michigan,MI,10/25/18,-83.0845621,42.36618433
+351,Intestine,Gift of Life Michigan,Ann Arbor,Wayne County,Michigan,MI,10/25/18,-83.0845621,42.36618433
+352,Heart,Gift of Life Michigan,Ann Arbor,Wayne County,Michigan,MI,10/25/18,-83.0845621,42.36618433
+353,Lung,Gift of Life Michigan,Ann Arbor,Wayne County,Michigan,MI,10/25/18,-83.0845621,42.36618433
+354,Kidney,Gift of Life Michigan,Ann Arbor,Wayne County,Michigan,MI,10/25/18,-83.05697613,42.35006629
+355,Heart,Gift of Life Michigan,Ann Arbor,Kent County,Michigan,MI,10/25/18,-85.6664534,42.9704039
+356,Lung,Gift of Life Michigan,Ann Arbor,Kent County,Michigan,MI,10/25/18,-85.6664534,42.9704039
+357,Kidney,Gift of Life Michigan,Ann Arbor,Wayne County,Michigan,MI,10/25/18,-82.91491056,42.41898926
+358,Kidney,Gift of Life Michigan,Ann Arbor,Kent County,Michigan,MI,10/25/18,-85.6640541,42.95858831
+359,Kidney,Gift of Life Michigan,Ann Arbor,Washtenaw County,Michigan,MI,10/25/18,-83.72767862,42.28470958
+360,Pancreas,Gift of Life Michigan,Ann Arbor,Washtenaw County,Michigan,MI,10/25/18,-83.72767862,42.28470958
+361,Liver,Gift of Life Michigan,Ann Arbor,Washtenaw County,Michigan,MI,10/25/18,-83.72767862,42.28470958
+362,Heart,Gift of Life Michigan,Ann Arbor,Washtenaw County,Michigan,MI,10/25/18,-83.72767862,42.28470958
+363,Lung,Gift of Life Michigan,Ann Arbor,Washtenaw County,Michigan,MI,10/25/18,-83.72767862,42.28470958
+364,Vascularized Composite Allograft (VCA),Gift of Life Michigan,Ann Arbor,Washtenaw County,Michigan,MI,10/25/18,-83.72767862,42.28470958
+365,Kidney,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Hennepin County,Minnesota,MN,10/25/18,-93.26170252,44.95374246
+366,Heart,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Hennepin County,Minnesota,MN,10/25/18,-93.26170252,44.95374246
+367,Kidney,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Hennepin County,Minnesota,MN,10/25/18,-93.26280668,44.97262053
+368,Kidney,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Olmsted County,Minnesota,MN,10/25/18,-92.46589369,44.02348951
+369,Pancreas,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Olmsted County,Minnesota,MN,10/25/18,-92.46589369,44.02348951
+370,Liver,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Olmsted County,Minnesota,MN,10/25/18,-92.46589369,44.02348951
+371,Kidney,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Olmsted County,Minnesota,MN,10/25/18,-92.48209199,44.02161152
+372,Liver,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Olmsted County,Minnesota,MN,10/25/18,-92.48209199,44.02161152
+373,Heart,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Olmsted County,Minnesota,MN,10/25/18,-92.48209199,44.02161152
+374,Lung,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Olmsted County,Minnesota,MN,10/25/18,-92.48209199,44.02161152
+375,Vascularized Composite Allograft (VCA),LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Olmsted County,Minnesota,MN,10/25/18,-92.48209199,44.02161152
+376,Kidney,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Hennepin County,Minnesota,MN,10/25/18,-93.23030249,44.970336
+377,Pancreas,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Hennepin County,Minnesota,MN,10/25/18,-93.23030249,44.970336
+378,Pancreas Islet,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Hennepin County,Minnesota,MN,10/25/18,-93.23030249,44.970336
+379,Liver,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Hennepin County,Minnesota,MN,10/25/18,-93.23030249,44.970336
+380,Intestine,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Hennepin County,Minnesota,MN,10/25/18,-93.23030249,44.970336
+381,Heart,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Hennepin County,Minnesota,MN,10/25/18,-93.23030249,44.970336
+382,Lung,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Hennepin County,Minnesota,MN,10/25/18,-93.23030249,44.970336
+383,Kidney,Mid-America Transplant Services,Saint Louis,St. Louis City,Missouri,MO,10/25/18,-90.26326614,38.63483861
+384,Pancreas,Mid-America Transplant Services,Saint Louis,St. Louis City,Missouri,MO,10/25/18,-90.26326614,38.63483861
+385,Liver,Mid-America Transplant Services,Saint Louis,St. Louis City,Missouri,MO,10/25/18,-90.26326614,38.63483861
+386,Intestine,Mid-America Transplant Services,Saint Louis,St. Louis City,Missouri,MO,10/25/18,-90.26326614,38.63483861
+387,Heart,Mid-America Transplant Services,Saint Louis,St. Louis City,Missouri,MO,10/25/18,-90.26326614,38.63483861
+388,Lung,Mid-America Transplant Services,Saint Louis,St. Louis City,Missouri,MO,10/25/18,-90.26326614,38.63483861
+389,Kidney,Mid-America Transplant Services,Saint Louis,St. Louis City,Missouri,MO,10/25/18,-90.23847316,38.62143407
+390,Liver,Mid-America Transplant Services,Saint Louis,St. Louis City,Missouri,MO,10/25/18,-90.23847316,38.62143407
+391,Heart,Mid-America Transplant Services,Saint Louis,St. Louis City,Missouri,MO,10/25/18,-90.23847316,38.62143407
+392,Kidney,Mid-America Transplant Services,Saint Louis,St. Louis City,Missouri,MO,10/25/18,-90.26495701,38.6372844
+393,Liver,Mid-America Transplant Services,Saint Louis,St. Louis City,Missouri,MO,10/25/18,-90.26495701,38.6372844
+394,Heart,Mid-America Transplant Services,Saint Louis,St. Louis City,Missouri,MO,10/25/18,-90.26495701,38.6372844
+395,Lung,Mid-America Transplant Services,Saint Louis,St. Louis City,Missouri,MO,10/25/18,-90.26495701,38.6372844
+396,Kidney,Midwest Transplant Network,Westwood,Jackson County,Missouri,MO,10/25/18,-94.57883761,39.08345329
+397,Liver,Midwest Transplant Network,Westwood,Jackson County,Missouri,MO,10/25/18,-94.57883761,39.08345329
+398,Intestine,Midwest Transplant Network,Westwood,Jackson County,Missouri,MO,10/25/18,-94.57883761,39.08345329
+399,Heart,Midwest Transplant Network,Westwood,Jackson County,Missouri,MO,10/25/18,-94.57883761,39.08345329
+400,Kidney,Midwest Transplant Network,Westwood,Jackson County,Missouri,MO,10/25/18,-94.59011081,39.04593693
+401,Liver,Midwest Transplant Network,Westwood,Jackson County,Missouri,MO,10/25/18,-94.59011081,39.04593693
+402,Heart,Midwest Transplant Network,Westwood,Jackson County,Missouri,MO,10/25/18,-94.59011081,39.04593693
+403,Kidney,Midwest Transplant Network,Westwood,Jackson County,Missouri,MO,10/25/18,-94.55966554,39.00719855
+404,Pancreas,Midwest Transplant Network,Westwood,Jackson County,Missouri,MO,10/25/18,-94.55966554,39.00719855
+405,Kidney,Mid-America Transplant Services,Saint Louis,St. Louis City,Missouri,MO,10/25/18,-90.23817149,38.622258
+406,Pancreas,Mid-America Transplant Services,Saint Louis,St. Louis City,Missouri,MO,10/25/18,-90.23817149,38.622258
+407,Liver,Mid-America Transplant Services,Saint Louis,St. Louis City,Missouri,MO,10/25/18,-90.23817149,38.622258
+408,Kidney,Midwest Transplant Network,Westwood,Boone County,Missouri,MO,10/25/18,-92.327475,38.93808748
+409,Kidney,Mississippi Organ Recovery Agency,Flowood,Hinds County,Mississippi,MS,10/25/18,-90.1755515,32.32871147
+410,Pancreas,Mississippi Organ Recovery Agency,Flowood,Hinds County,Mississippi,MS,10/25/18,-90.1755515,32.32871147
+411,Liver,Mississippi Organ Recovery Agency,Flowood,Hinds County,Mississippi,MS,10/25/18,-90.1755515,32.32871147
+412,Heart,Mississippi Organ Recovery Agency,Flowood,Hinds County,Mississippi,MS,10/25/18,-90.1755515,32.32871147
+413,Kidney,Carolina Donor Services,Greenville,Forsyth County,North Carolina,NC,10/25/18,-80.27134544,36.08953991
+414,Pancreas,Carolina Donor Services,Greenville,Forsyth County,North Carolina,NC,10/25/18,-80.27134544,36.08953991
+415,Heart,Carolina Donor Services,Greenville,Forsyth County,North Carolina,NC,10/25/18,-80.27134544,36.08953991
+416,Vascularized Composite Allograft (VCA),Carolina Donor Services,Greenville,Forsyth County,North Carolina,NC,10/25/18,-80.27134544,36.08953991
+417,Kidney,LifeShare of the Carolinas,Charlotte,Mecklenburg County,North Carolina,NC,10/25/18,-80.83873608,35.20466068
+418,Pancreas,LifeShare of the Carolinas,Charlotte,Mecklenburg County,North Carolina,NC,10/25/18,-80.83873608,35.20466068
+419,Liver,LifeShare of the Carolinas,Charlotte,Mecklenburg County,North Carolina,NC,10/25/18,-80.83873608,35.20466068
+420,Heart,LifeShare of the Carolinas,Charlotte,Mecklenburg County,North Carolina,NC,10/25/18,-80.83873608,35.20466068
+421,Kidney,Carolina Donor Services,Greenville,Durham County,North Carolina,NC,10/25/18,-78.9373571,36.00809849
+422,Pancreas,Carolina Donor Services,Greenville,Durham County,North Carolina,NC,10/25/18,-78.9373571,36.00809849
+423,Liver,Carolina Donor Services,Greenville,Durham County,North Carolina,NC,10/25/18,-78.9373571,36.00809849
+424,Intestine,Carolina Donor Services,Greenville,Durham County,North Carolina,NC,10/25/18,-78.9373571,36.00809849
+425,Heart,Carolina Donor Services,Greenville,Durham County,North Carolina,NC,10/25/18,-78.9373571,36.00809849
+426,Lung,Carolina Donor Services,Greenville,Durham County,North Carolina,NC,10/25/18,-78.9373571,36.00809849
+427,Vascularized Composite Allograft (VCA),Carolina Donor Services,Greenville,Durham County,North Carolina,NC,10/25/18,-78.9373571,36.00809849
+428,Kidney,Carolina Donor Services,Greenville,Pitt County,North Carolina,NC,10/25/18,-77.40430601,35.60548137
+429,Pancreas,Carolina Donor Services,Greenville,Pitt County,North Carolina,NC,10/25/18,-77.40430601,35.60548137
+430,Kidney,Carolina Donor Services,Greenville,Orange County,North Carolina,NC,10/25/18,-79.05199423,35.90357667
+431,Pancreas,Carolina Donor Services,Greenville,Orange County,North Carolina,NC,10/25/18,-79.05199423,35.90357667
+432,Liver,Carolina Donor Services,Greenville,Orange County,North Carolina,NC,10/25/18,-79.05199423,35.90357667
+433,Intestine,Carolina Donor Services,Greenville,Orange County,North Carolina,NC,10/25/18,-79.05199423,35.90357667
+434,Heart,Carolina Donor Services,Greenville,Orange County,North Carolina,NC,10/25/18,-79.05199423,35.90357667
+435,Lung,Carolina Donor Services,Greenville,Orange County,North Carolina,NC,10/25/18,-79.05199423,35.90357667
+436,Kidney,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Burleigh County,North Dakota,ND,10/25/18,-100.7815901,46.80811008
+437,Kidney,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Cass County,North Dakota,ND,10/25/18,-96.78767519,46.8847203
+438,Heart,Nebraska Organ Recovery System,Omaha,Douglas County,Nebraska,NE,10/25/18,-96.04022438,41.25972899
+439,Kidney,Nebraska Organ Recovery System,Omaha,Douglas County,Nebraska,NE,10/25/18,-95.97653999,41.25646
+440,Pancreas,Nebraska Organ Recovery System,Omaha,Douglas County,Nebraska,NE,10/25/18,-95.97653999,41.25646
+441,Liver,Nebraska Organ Recovery System,Omaha,Douglas County,Nebraska,NE,10/25/18,-95.97653999,41.25646
+442,Intestine,Nebraska Organ Recovery System,Omaha,Douglas County,Nebraska,NE,10/25/18,-95.97653999,41.25646
+443,Heart,Nebraska Organ Recovery System,Omaha,Douglas County,Nebraska,NE,10/25/18,-95.97653999,41.25646
+444,Lung,Nebraska Organ Recovery System,Omaha,Douglas County,Nebraska,NE,10/25/18,-95.97653999,41.25646
+445,Vascularized Composite Allograft (VCA),Nebraska Organ Recovery System,Omaha,Douglas County,Nebraska,NE,10/25/18,-95.97653999,41.25646
+446,Kidney,New England Organ Bank,Waltham,Grafton County,New Hampshire,NH,10/25/18,-72.2727674,43.67760588
+447,Kidney,New Jersey Organ and Tissue Sharing Network OPO,New Providence,Essex County,New Jersey,NJ,10/25/18,-74.21352726,40.70997856
+448,Heart,New Jersey Organ and Tissue Sharing Network OPO,New Providence,Essex County,New Jersey,NJ,10/25/18,-74.21352726,40.70997856
+449,Lung,New Jersey Organ and Tissue Sharing Network OPO,New Providence,Essex County,New Jersey,NJ,10/25/18,-74.21352726,40.70997856
+450,Kidney,New Jersey Organ and Tissue Sharing Network OPO,New Providence,Bergen County,New Jersey,NJ,10/25/18,-74.05793337,40.88402423
+451,Pancreas,New Jersey Organ and Tissue Sharing Network OPO,New Providence,Bergen County,New Jersey,NJ,10/25/18,-74.05793337,40.88402423
+452,Kidney,Gift of Life Donor Program,Philadelphia,Camden County,New Jersey,NJ,10/25/18,-75.09530298,39.92675719
+453,Pancreas,Gift of Life Donor Program,Philadelphia,Camden County,New Jersey,NJ,10/25/18,-75.09530298,39.92675719
+454,Liver,Gift of Life Donor Program,Philadelphia,Camden County,New Jersey,NJ,10/25/18,-75.09530298,39.92675719
+455,Heart,New Jersey Organ and Tissue Sharing Network OPO,New Providence,Middlesex County,New Jersey,NJ,10/25/18,-74.45062173,40.49569327
+456,Kidney,New Jersey Organ and Tissue Sharing Network OPO,New Providence,Essex County,New Jersey,NJ,10/25/18,-74.30263593,40.76345718
+457,Pancreas,New Jersey Organ and Tissue Sharing Network OPO,New Providence,Essex County,New Jersey,NJ,10/25/18,-74.30263593,40.76345718
+458,Liver,New Jersey Organ and Tissue Sharing Network OPO,New Providence,Essex County,New Jersey,NJ,10/25/18,-74.19245286,40.74018834
+459,Kidney,New Mexico Donor Services,Albuquerque,Bernalillo County,New Mexico,NM,10/25/18,-106.6174939,35.08756051
+460,Kidney,New Mexico Donor Services,Albuquerque,Bernalillo County,New Mexico,NM,10/25/18,-106.6345952,35.08226466
+461,Pancreas,New Mexico Donor Services,Albuquerque,Bernalillo County,New Mexico,NM,10/25/18,-106.6345952,35.08226466
+462,Kidney,Nevada Donor Network,Las Vegas,Clark County,Nevada,NV,10/25/18,-115.1674458,36.1590198
+463,Kidney,Center for Donation and Transplant,Albany,Albany County,New York,NY,10/25/18,-73.77397656,42.65326815
+464,Pancreas,Center for Donation and Transplant,Albany,Albany County,New York,NY,10/25/18,-73.77397656,42.65326815
+465,Kidney,LiveOnNY,New York,Queens County,New York,NY,10/25/18,-73.70749534,40.75277698
+466,Kidney,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.94044205,40.84128075
+467,Pancreas,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.94044205,40.84128075
+468,Liver,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.94044205,40.84128075
+469,Intestine,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.94044205,40.84128075
+470,Heart,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.94044205,40.84128075
+471,Lung,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.94044205,40.84128075
+472,Kidney,LiveOnNY,New York,Kings County,New York,NY,10/25/18,-73.94510849,40.65566852
+473,Kidney,Upstate New York Transplant Services Inc,Buffalo,Erie County,New York,NY,10/25/18,-78.82925734,42.92726734
+474,Pancreas,Upstate New York Transplant Services Inc,Buffalo,Erie County,New York,NY,10/25/18,-78.82925734,42.92726734
+475,Kidney,Finger Lakes Donor Recovery Network,Rochester,Monroe County,New York,NY,10/25/18,-77.62359828,43.12432644
+476,Pancreas,Finger Lakes Donor Recovery Network,Rochester,Monroe County,New York,NY,10/25/18,-77.62359828,43.12432644
+477,Liver,Finger Lakes Donor Recovery Network,Rochester,Monroe County,New York,NY,10/25/18,-77.62359828,43.12432644
+478,Heart,Finger Lakes Donor Recovery Network,Rochester,Monroe County,New York,NY,10/25/18,-77.62359828,43.12432644
+479,Kidney,LiveOnNY,New York,Bronx County,New York,NY,10/25/18,-73.8802861,40.87986317
+480,Pancreas,LiveOnNY,New York,Bronx County,New York,NY,10/25/18,-73.8802861,40.87986317
+481,Liver,LiveOnNY,New York,Bronx County,New York,NY,10/25/18,-73.8802861,40.87986317
+482,Heart,LiveOnNY,New York,Bronx County,New York,NY,10/25/18,-73.8802861,40.87986317
+483,Lung,LiveOnNY,New York,Bronx County,New York,NY,10/25/18,-73.8802861,40.87986317
+484,Kidney,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.95446195,40.78907921
+485,Pancreas,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.95446195,40.78907921
+486,Liver,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.95446195,40.78907921
+487,Intestine,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.95446195,40.78907921
+488,Heart,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.95446195,40.78907921
+489,Vascularized Composite Allograft (VCA),LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.95446195,40.78907921
+490,Kidney,LiveOnNY,New York,Nassau County,New York,NY,10/25/18,-73.68906801,40.7939707
+491,Heart,LiveOnNY,New York,Nassau County,New York,NY,10/25/18,-73.68906801,40.7939707
+492,Kidney,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.95529505,40.76422987
+493,Pancreas,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.95529505,40.76422987
+494,Pancreas Islet,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.95529505,40.76422987
+495,Liver,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.95529505,40.76422987
+496,Kidney,LiveOnNY,New York,Suffolk County,New York,NY,10/25/18,-73.11223451,40.90899896
+497,Kidney,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.97450676,40.74237896
+498,Liver,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.97450676,40.74237896
+499,Heart,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.97450676,40.74237896
+500,Lung,LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.97450676,40.74237896
+501,Vascularized Composite Allograft (VCA),LiveOnNY,New York,New York County,New York,NY,10/25/18,-73.97450676,40.74237896
+502,Kidney,Finger Lakes Donor Recovery Network,Rochester,Onondaga County,New York,NY,10/25/18,-76.14026172,43.04266146
+503,Pancreas,Finger Lakes Donor Recovery Network,Rochester,Onondaga County,New York,NY,10/25/18,-76.14026172,43.04266146
+504,Kidney,LiveOnNY,New York,Bronx County,New York,NY,10/25/18,-73.90313305,40.86903513
+505,Kidney,LiveOnNY,New York,Westchester County,New York,NY,10/25/18,-73.80396903,41.08770647
+506,Pancreas,LiveOnNY,New York,Westchester County,New York,NY,10/25/18,-73.80396903,41.08770647
+507,Liver,LiveOnNY,New York,Westchester County,New York,NY,10/25/18,-73.80396903,41.08770647
+508,Heart,LiveOnNY,New York,Westchester County,New York,NY,10/25/18,-73.80396903,41.08770647
+509,Kidney,Lifebanc,Cleveland,Cuyahoga County,Ohio,OH,10/25/18,-81.62243159,41.50342048
+510,Pancreas,Lifebanc,Cleveland,Cuyahoga County,Ohio,OH,10/25/18,-81.62243159,41.50342048
+511,Liver,Lifebanc,Cleveland,Cuyahoga County,Ohio,OH,10/25/18,-81.62243159,41.50342048
+512,Intestine,Lifebanc,Cleveland,Cuyahoga County,Ohio,OH,10/25/18,-81.62243159,41.50342048
+513,Heart,Lifebanc,Cleveland,Cuyahoga County,Ohio,OH,10/25/18,-81.62243159,41.50342048
+514,Lung,Lifebanc,Cleveland,Cuyahoga County,Ohio,OH,10/25/18,-81.62243159,41.50342048
+515,Vascularized Composite Allograft (VCA),Lifebanc,Cleveland,Cuyahoga County,Ohio,OH,10/25/18,-81.62243159,41.50342048
+516,Kidney,Lifeline of Ohio,Columbus,Franklin County,Ohio,OH,10/25/18,-82.97922977,39.95236875
+517,Liver,Lifeline of Ohio,Columbus,Franklin County,Ohio,OH,10/25/18,-82.97922977,39.95236875
+518,Heart,Lifeline of Ohio,Columbus,Franklin County,Ohio,OH,10/25/18,-82.97922977,39.95236875
+519,Lung,Lifeline of Ohio,Columbus,Franklin County,Ohio,OH,10/25/18,-82.97922977,39.95236875
+520,Kidney,LifeCenter Organ Donor Network,Cincinnati,Hamilton County,Ohio,OH,10/25/18,-84.50037504,39.14137205
+521,Pancreas,LifeCenter Organ Donor Network,Cincinnati,Hamilton County,Ohio,OH,10/25/18,-84.50037504,39.14137205
+522,Liver,LifeCenter Organ Donor Network,Cincinnati,Hamilton County,Ohio,OH,10/25/18,-84.50037504,39.14137205
+523,Intestine,LifeCenter Organ Donor Network,Cincinnati,Hamilton County,Ohio,OH,10/25/18,-84.50037504,39.14137205
+524,Heart,LifeCenter Organ Donor Network,Cincinnati,Hamilton County,Ohio,OH,10/25/18,-84.50037504,39.14137205
+525,Lung,LifeCenter Organ Donor Network,Cincinnati,Hamilton County,Ohio,OH,10/25/18,-84.50037504,39.14137205
+526,Kidney,Life Connection of Ohio,Maumee,Lucas County,Ohio,OH,10/25/18,-83.61611185,41.62117649
+527,Kidney,Lifeline of Ohio,Columbus,Franklin County,Ohio,OH,10/25/18,-83.01753508,39.99417123
+528,Pancreas,Lifeline of Ohio,Columbus,Franklin County,Ohio,OH,10/25/18,-83.01753508,39.99417123
+529,Pancreas Islet,Lifeline of Ohio,Columbus,Franklin County,Ohio,OH,10/25/18,-83.01753508,39.99417123
+530,Liver,Lifeline of Ohio,Columbus,Franklin County,Ohio,OH,10/25/18,-83.01753508,39.99417123
+531,Heart,Lifeline of Ohio,Columbus,Franklin County,Ohio,OH,10/25/18,-83.01753508,39.99417123
+532,Lung,Lifeline of Ohio,Columbus,Franklin County,Ohio,OH,10/25/18,-83.01753508,39.99417123
+533,Vascularized Composite Allograft (VCA),Lifeline of Ohio,Columbus,Franklin County,Ohio,OH,10/25/18,-83.01753508,39.99417123
+534,Kidney,LifeCenter Organ Donor Network,Cincinnati,Hamilton County,Ohio,OH,10/25/18,-84.50859341,39.12096505
+535,Kidney,LifeCenter Organ Donor Network,Cincinnati,Hamilton County,Ohio,OH,10/25/18,-84.50239803,39.13677139
+536,Pancreas,LifeCenter Organ Donor Network,Cincinnati,Hamilton County,Ohio,OH,10/25/18,-84.50239803,39.13677139
+537,Liver,LifeCenter Organ Donor Network,Cincinnati,Hamilton County,Ohio,OH,10/25/18,-84.50239803,39.13677139
+538,Heart,LifeCenter Organ Donor Network,Cincinnati,Hamilton County,Ohio,OH,10/25/18,-84.50239803,39.13677139
+539,Kidney,Lifebanc,Cleveland,Cuyahoga County,Ohio,OH,10/25/18,-81.60720154,41.50736521
+540,Pancreas,Lifebanc,Cleveland,Cuyahoga County,Ohio,OH,10/25/18,-81.60720154,41.50736521
+541,Liver,Lifebanc,Cleveland,Cuyahoga County,Ohio,OH,10/25/18,-81.60720154,41.50736521
+542,Heart,Lifebanc,Cleveland,Cuyahoga County,Ohio,OH,10/25/18,-81.60720154,41.50736521
+543,Lung,Lifebanc,Cleveland,Cuyahoga County,Ohio,OH,10/25/18,-81.60720154,41.50736521
+544,Kidney,LifeShare Transplant Donor Services of Oklahoma,Oklahoma City,Oklahoma County,Oklahoma,OK,10/25/18,-97.57524538,35.53023208
+545,Pancreas,LifeShare Transplant Donor Services of Oklahoma,Oklahoma City,Oklahoma County,Oklahoma,OK,10/25/18,-97.57524538,35.53023208
+546,Liver,LifeShare Transplant Donor Services of Oklahoma,Oklahoma City,Oklahoma County,Oklahoma,OK,10/25/18,-97.57524538,35.53023208
+547,Intestine,LifeShare Transplant Donor Services of Oklahoma,Oklahoma City,Oklahoma County,Oklahoma,OK,10/25/18,-97.57524538,35.53023208
+548,Heart,LifeShare Transplant Donor Services of Oklahoma,Oklahoma City,Oklahoma County,Oklahoma,OK,10/25/18,-97.57524538,35.53023208
+549,Lung,LifeShare Transplant Donor Services of Oklahoma,Oklahoma City,Oklahoma County,Oklahoma,OK,10/25/18,-97.57524538,35.53023208
+550,Kidney,LifeShare Transplant Donor Services of Oklahoma,Oklahoma City,Oklahoma County,Oklahoma,OK,10/25/18,-97.49617307,35.4802635
+551,Kidney,LifeShare Transplant Donor Services of Oklahoma,Oklahoma City,Oklahoma County,Oklahoma,OK,10/25/18,-97.49617307,35.4802635
+552,Pancreas,LifeShare Transplant Donor Services of Oklahoma,Oklahoma City,Oklahoma County,Oklahoma,OK,10/25/18,-97.49617307,35.4802635
+553,Kidney,LifeShare Transplant Donor Services of Oklahoma,Oklahoma City,Tulsa County,Oklahoma,OK,10/25/18,-95.92206598,36.073197
+554,Kidney,LifeShare Transplant Donor Services of Oklahoma,Oklahoma City,Tulsa County,Oklahoma,OK,10/25/18,-95.96719997,36.13421658
+555,Kidney,Pacific Northwest Transplant Bank,Portland,Multnomah County,Oregon,OR,10/25/18,-122.696631,45.53024479
+556,Kidney,Pacific Northwest Transplant Bank,Portland,Multnomah County,Oregon,OR,10/25/18,-122.6851758,45.49973678
+557,Pancreas,Pacific Northwest Transplant Bank,Portland,Multnomah County,Oregon,OR,10/25/18,-122.6851758,45.49973678
+558,Liver,Pacific Northwest Transplant Bank,Portland,Multnomah County,Oregon,OR,10/25/18,-122.6851758,45.49973678
+559,Heart,Pacific Northwest Transplant Bank,Portland,Multnomah County,Oregon,OR,10/25/18,-122.6851758,45.49973678
+560,Kidney,Pacific Northwest Transplant Bank,Portland,Multnomah County,Oregon,OR,10/25/18,-122.6834869,45.49656707
+561,Liver,Pacific Northwest Transplant Bank,Portland,Multnomah County,Oregon,OR,10/25/18,-122.6834869,45.49656707
+562,Kidney,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.14472068,40.03517094
+563,Pancreas,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.14472068,40.03517094
+564,Liver,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.14472068,40.03517094
+565,Kidney,Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-80.00338914,40.45610117
+566,Pancreas,Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-80.00338914,40.45610117
+567,Liver,Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-80.00338914,40.45610117
+568,Heart,Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-80.00338914,40.45610117
+569,Kidney,Gift of Life Donor Program,Philadelphia,Delaware County,Pennsylvania,PA,10/25/18,-75.36861828,39.85612193
+570,Kidney,Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-79.95288863,40.46608029
+571,Pancreas,Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-79.95288863,40.46608029
+572,Liver,Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-79.95288863,40.46608029
+573,Intestine,Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-79.95288863,40.46608029
+574,Heart,Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-79.95288863,40.46608029
+575,Lung,Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-79.95288863,40.46608029
+576,Kidney,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.192903,39.948687
+577,Liver,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.192903,39.948687
+578,Heart,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.192903,39.948687
+579,Lung,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.192903,39.948687
+580,Vascularized Composite Allograft (VCA),Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.192903,39.948687
+581,Kidney,Gift of Life Donor Program,Philadelphia,Montour County,Pennsylvania,PA,10/25/18,-76.60176151,40.96970192
+582,Liver,Gift of Life Donor Program,Philadelphia,Montour County,Pennsylvania,PA,10/25/18,-76.60176151,40.96970192
+583,Kidney,Gift of Life Donor Program,Philadelphia,Dauphin County,Pennsylvania,PA,10/25/18,-76.67396004,40.26441127
+584,Pancreas,Gift of Life Donor Program,Philadelphia,Dauphin County,Pennsylvania,PA,10/25/18,-76.67396004,40.26441127
+585,Liver,Gift of Life Donor Program,Philadelphia,Dauphin County,Pennsylvania,PA,10/25/18,-76.67396004,40.26441127
+586,Heart,Gift of Life Donor Program,Philadelphia,Dauphin County,Pennsylvania,PA,10/25/18,-76.67396004,40.26441127
+587,Kidney,Gift of Life Donor Program,Philadelphia,Dauphin County,Pennsylvania,PA,10/25/18,-76.88090424,40.25746789
+588,Pancreas,Gift of Life Donor Program,Philadelphia,Dauphin County,Pennsylvania,PA,10/25/18,-76.88090424,40.25746789
+589,Kidney,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.162366,39.958065
+590,Liver,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.162366,39.958065
+591,Kidney,Gift of Life Donor Program,Philadelphia,Montgomery County,Pennsylvania,PA,10/25/18,-75.25743398,39.99005839
+592,Kidney,Gift of Life Donor Program,Philadelphia,Lehigh County,Pennsylvania,PA,10/25/18,-75.51865475,40.56673064
+593,Pancreas,Gift of Life Donor Program,Philadelphia,Lehigh County,Pennsylvania,PA,10/25/18,-75.51865475,40.56673064
+594,Kidney,Center for Organ Recovery and Education,Pittsburgh,Erie County,Pennsylvania,PA,10/25/18,-80.08781558,42.13335452
+595,Kidney,Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-79.96104458,40.44195325
+596,Pancreas,Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-79.96104458,40.44195325
+597,Liver,Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-79.96104458,40.44195325
+598,Intestine,Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-79.96104458,40.44195325
+599,Heart,Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-79.96104458,40.44195325
+600,Lung,Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-79.96104458,40.44195325
+601,Vascularized Composite Allograft (VCA),Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-79.96104458,40.44195325
+602,Kidney,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.127284,40.00768199
+603,Kidney,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.15864652,39.94976928
+604,Pancreas,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.15864652,39.94976928
+605,Liver,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.15864652,39.94976928
+606,Heart,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.15864652,39.94976928
+607,Kidney,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.1521967,40.00466998
+608,Pancreas,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.1521967,40.00466998
+609,Liver,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.1521967,40.00466998
+610,Heart,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.1521967,40.00466998
+611,Lung,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.1521967,40.00466998
+612,Kidney,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.19686324,39.95094265
+613,Pancreas,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.19686324,39.95094265
+614,Pancreas Islet,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.19686324,39.95094265
+615,Liver,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.19686324,39.95094265
+616,Heart,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.19686324,39.95094265
+617,Lung,Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.19686324,39.95094265
+618,Vascularized Composite Allograft (VCA),Gift of Life Donor Program,Philadelphia,Philadelphia County,Pennsylvania,PA,10/25/18,-75.19686324,39.95094265
+619,Kidney,Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-79.95961117,40.44470978
+620,Liver,Center for Organ Recovery and Education,Pittsburgh,Allegheny County,Pennsylvania,PA,10/25/18,-79.95961117,40.44470978
+621,Heart,LifeLink of Puerto Rico,Guaynabo,San Juan Municipio,Puerto Rico,PR,10/25/18,-66.07616999,18.41789
+622,Kidney,LifeLink of Puerto Rico,Guaynabo,San Juan Municipio,Puerto Rico,PR,10/25/18,-66.05769978,18.42543265
+623,Pancreas,LifeLink of Puerto Rico,Guaynabo,San Juan Municipio,Puerto Rico,PR,10/25/18,-66.05769978,18.42543265
+624,Liver,LifeLink of Puerto Rico,Guaynabo,San Juan Municipio,Puerto Rico,PR,10/25/18,-66.05769978,18.42543265
+625,Kidney,New England Organ Bank,Waltham,Providence County,Rhode Island,RI,10/25/18,-71.40709841,41.81174421
+626,Heart,We Are Sharing Hope SC,Charleston,Charleston County,South Carolina,SC,10/25/18,-79.94670417,32.78543003
+627,Kidney,We Are Sharing Hope SC,Charleston,Charleston County,South Carolina,SC,10/25/18,-79.94679738,32.78563542
+628,Pancreas,We Are Sharing Hope SC,Charleston,Charleston County,South Carolina,SC,10/25/18,-79.94679738,32.78563542
+629,Liver,We Are Sharing Hope SC,Charleston,Charleston County,South Carolina,SC,10/25/18,-79.94679738,32.78563542
+630,Intestine,We Are Sharing Hope SC,Charleston,Charleston County,South Carolina,SC,10/25/18,-79.94679738,32.78563542
+631,Heart,We Are Sharing Hope SC,Charleston,Charleston County,South Carolina,SC,10/25/18,-79.94679738,32.78563542
+632,Lung,We Are Sharing Hope SC,Charleston,Charleston County,South Carolina,SC,10/25/18,-79.94679738,32.78563542
+633,Kidney,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Minnehaha County,South Dakota,SD,10/25/18,-96.71287306,43.53368852
+634,Pancreas,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Minnehaha County,South Dakota,SD,10/25/18,-96.71287306,43.53368852
+635,Liver,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Minnehaha County,South Dakota,SD,10/25/18,-96.71287306,43.53368852
+636,Kidney,LifeSource Upper Midwest Organ Procurement Organization,Minneapolis,Minnehaha County,South Dakota,SD,10/25/18,-96.74131838,43.53423236
+637,Heart,Mid-South Transplant Foundation,Cordova,Shelby County,Tennessee,TN,10/25/18,-89.86088307,35.13080453
+638,Kidney,Tennessee Donor Services,Nashville,Hamilton County,Tennessee,TN,10/25/18,-85.29085076,35.04794435
+639,Kidney,Mid-South Transplant Foundation,Cordova,Shelby County,Tennessee,TN,10/25/18,-90.03311727,35.14259122
+640,Liver,Mid-South Transplant Foundation,Cordova,Shelby County,Tennessee,TN,10/25/18,-90.03311727,35.14259122
+641,Heart,Mid-South Transplant Foundation,Cordova,Shelby County,Tennessee,TN,10/25/18,-90.03311727,35.14259122
+642,Kidney,Mid-South Transplant Foundation,Cordova,Shelby County,Tennessee,TN,10/25/18,-90.01915584,35.13708859
+643,Pancreas,Mid-South Transplant Foundation,Cordova,Shelby County,Tennessee,TN,10/25/18,-90.01915584,35.13708859
+644,Liver,Mid-South Transplant Foundation,Cordova,Shelby County,Tennessee,TN,10/25/18,-90.01915584,35.13708859
+645,Kidney,Tennessee Donor Services,Nashville,Davidson County,Tennessee,TN,10/25/18,-86.80778449,36.15285275
+646,Kidney,Tennessee Donor Services,Nashville,Davidson County,Tennessee,TN,10/25/18,-86.84342481,36.12781847
+647,Heart,Tennessee Donor Services,Nashville,Davidson County,Tennessee,TN,10/25/18,-86.84342481,36.12781847
+648,Kidney,Tennessee Donor Services,Nashville,Knox County,Tennessee,TN,10/25/18,-83.94882794,35.93927951
+649,Kidney,Tennessee Donor Services,Nashville,Davidson County,Tennessee,TN,10/25/18,-86.80181148,36.13863373
+650,Pancreas,Tennessee Donor Services,Nashville,Davidson County,Tennessee,TN,10/25/18,-86.80181148,36.13863373
+651,Liver,Tennessee Donor Services,Nashville,Davidson County,Tennessee,TN,10/25/18,-86.80181148,36.13863373
+652,Heart,Tennessee Donor Services,Nashville,Davidson County,Tennessee,TN,10/25/18,-86.80181148,36.13863373
+653,Lung,Tennessee Donor Services,Nashville,Davidson County,Tennessee,TN,10/25/18,-86.80181148,36.13863373
+654,Kidney,Tennessee Donor Services,Nashville,Davidson County,Tennessee,TN,10/25/18,-86.80476702,36.14233404
+655,Kidney,LifeGift Organ Donation Center,Houston,Tarrant County,Texas,TX,10/25/18,-97.34377617,32.72976947
+656,Pancreas,LifeGift Organ Donation Center,Houston,Tarrant County,Texas,TX,10/25/18,-97.34377617,32.72976947
+657,Pancreas Islet,LifeGift Organ Donation Center,Houston,Tarrant County,Texas,TX,10/25/18,-97.34377617,32.72976947
+658,Liver,LifeGift Organ Donation Center,Houston,Tarrant County,Texas,TX,10/25/18,-97.34377617,32.72976947
+659,Kidney,Texas Organ Sharing Alliance,San Antonio,Bexar County,Texas,TX,10/25/18,-98.57909938,29.50998302
+660,Pancreas,Texas Organ Sharing Alliance,San Antonio,Bexar County,Texas,TX,10/25/18,-98.57909938,29.50998302
+661,Liver,Texas Organ Sharing Alliance,San Antonio,Bexar County,Texas,TX,10/25/18,-98.57909938,29.50998302
+662,Intestine,Texas Organ Sharing Alliance,San Antonio,Bexar County,Texas,TX,10/25/18,-98.57909938,29.50998302
+663,Lung,Texas Organ Sharing Alliance,San Antonio,Bexar County,Texas,TX,10/25/18,-98.57909938,29.50998302
+664,Kidney,LifeGift Organ Donation Center,Houston,Tarrant County,Texas,TX,10/25/18,-97.3419613,32.73648969
+665,Kidney,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.83620139,32.80886417
+666,Pancreas,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.83620139,32.80886417
+667,Liver,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.83620139,32.80886417
+668,Intestine,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.83620139,32.80886417
+669,Heart,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.83620139,32.80886417
+670,Heart,Texas Organ Sharing Alliance,San Antonio,Travis County,Texas,TX,10/25/18,-97.74556475,30.30627331
+671,Kidney,Southwest Transplant Alliance,Dallas,Nueces County,Texas,TX,10/25/18,-97.38500839,27.74927199
+672,Kidney,Texas Organ Sharing Alliance,San Antonio,Travis County,Texas,TX,10/25/18,-97.70795621,30.41224504
+673,Kidney,Texas Organ Sharing Alliance,San Antonio,Hidalgo County,Texas,TX,10/25/18,-98.20392302,26.25383652
+674,Kidney,LifeGift Organ Donation Center,Houston,Tarrant County,Texas,TX,10/25/18,-97.3389825,32.73843047
+675,Kidney,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.77178167,32.90947879
+676,Pancreas,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.77178167,32.90947879
+677,Heart,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.77178167,32.90947879
+678,Kidney,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.39685313,29.71462141
+679,Pancreas,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.39685313,29.71462141
+680,Liver,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.39685313,29.71462141
+681,Intestine,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.39685313,29.71462141
+682,Heart,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.39685313,29.71462141
+683,Lung,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.39685313,29.71462141
+684,Kidney,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.39916562,29.70868372
+685,Liver,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.39916562,29.70868372
+686,Heart,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.39916562,29.70868372
+687,Lung,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.39916562,29.70868372
+688,Kidney,Texas Organ Sharing Alliance,San Antonio,Bexar County,Texas,TX,10/25/18,-98.57728511,29.51293794
+689,Pancreas,Texas Organ Sharing Alliance,San Antonio,Bexar County,Texas,TX,10/25/18,-98.57728511,29.51293794
+690,Liver,Texas Organ Sharing Alliance,San Antonio,Bexar County,Texas,TX,10/25/18,-98.57728511,29.51293794
+691,Heart,Texas Organ Sharing Alliance,San Antonio,Bexar County,Texas,TX,10/25/18,-98.57728511,29.51293794
+692,Kidney,Southwest Transplant Alliance,Dallas,Galveston County,Texas,TX,10/25/18,-94.77482918,29.31133337
+693,Pancreas,Southwest Transplant Alliance,Dallas,Galveston County,Texas,TX,10/25/18,-94.77482918,29.31133337
+694,Liver,Southwest Transplant Alliance,Dallas,Galveston County,Texas,TX,10/25/18,-94.77482918,29.31133337
+695,Heart,Southwest Transplant Alliance,Dallas,Galveston County,Texas,TX,10/25/18,-94.77482918,29.31133337
+696,Kidney,Southwest Transplant Alliance,Dallas,El Paso County,Texas,TX,10/25/18,-106.4985737,31.77021339
+697,Kidney,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.82305363,32.76155502
+698,Pancreas,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.82305363,32.76155502
+699,Liver,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.82305363,32.76155502
+700,Vascularized Composite Allograft (VCA),Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.82305363,32.76155502
+701,Kidney,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.40025742,29.71027603
+702,Pancreas,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.40025742,29.71027603
+703,Pancreas Islet,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.40025742,29.71027603
+704,Liver,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.40025742,29.71027603
+705,Intestine,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.40025742,29.71027603
+706,Heart,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.40025742,29.71027603
+707,Lung,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.40025742,29.71027603
+708,Vascularized Composite Allograft (VCA),LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.40025742,29.71027603
+709,Kidney,LifeGift Organ Donation Center,Houston,Tarrant County,Texas,TX,10/25/18,-97.34582316,32.73485433
+710,Pancreas,LifeGift Organ Donation Center,Houston,Tarrant County,Texas,TX,10/25/18,-97.34582316,32.73485433
+711,Liver,LifeGift Organ Donation Center,Houston,Tarrant County,Texas,TX,10/25/18,-97.34582316,32.73485433
+712,Kidney,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.83693249,32.81181728
+713,Kidney,Texas Organ Sharing Alliance,San Antonio,Bexar County,Texas,TX,10/25/18,-98.59153235,29.51230944
+714,Kidney,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.84713576,32.81968811
+715,Liver,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.84713576,32.81968811
+716,Heart,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.84713576,32.81968811
+717,Lung,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.84713576,32.81968811
+718,Kidney,Southwest Transplant Alliance,Dallas,Bell County,Texas,TX,10/25/18,-97.36582017,31.07887494
+719,Pancreas,Southwest Transplant Alliance,Dallas,Bell County,Texas,TX,10/25/18,-97.36582017,31.07887494
+720,Heart,Southwest Transplant Alliance,Dallas,Bell County,Texas,TX,10/25/18,-97.36582017,31.07887494
+721,Kidney,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.40145996,29.7087966
+722,Liver,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.40145996,29.7087966
+723,Heart,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.40145996,29.7087966
+724,Lung,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.40145996,29.7087966
+725,Kidney,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.77928498,32.78836127
+726,Pancreas,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.77928498,32.78836127
+727,Pancreas Islet,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.77928498,32.78836127
+728,Liver,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.77928498,32.78836127
+729,Intestine,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.77928498,32.78836127
+730,Heart,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.77928498,32.78836127
+731,Lung,Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.77928498,32.78836127
+732,Vascularized Composite Allograft (VCA),Southwest Transplant Alliance,Dallas,Dallas County,Texas,TX,10/25/18,-96.77928498,32.78836127
+733,Kidney,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.38874759,29.70651008
+734,Liver,LifeGift Organ Donation Center,Houston,Harris County,Texas,TX,10/25/18,-95.38874759,29.70651008
+735,Kidney,Intermountain Donor Services,Salt Lake City,Salt Lake County,Utah,UT,10/25/18,-111.8943306,40.65882831
+736,Pancreas,Intermountain Donor Services,Salt Lake City,Salt Lake County,Utah,UT,10/25/18,-111.8943306,40.65882831
+737,Liver,Intermountain Donor Services,Salt Lake City,Salt Lake County,Utah,UT,10/25/18,-111.8943306,40.65882831
+738,Heart,Intermountain Donor Services,Salt Lake City,Salt Lake County,Utah,UT,10/25/18,-111.8943306,40.65882831
+739,Kidney,Intermountain Donor Services,Salt Lake City,Salt Lake County,Utah,UT,10/25/18,-111.8347774,40.76805739
+740,Pancreas,Intermountain Donor Services,Salt Lake City,Salt Lake County,Utah,UT,10/25/18,-111.8347774,40.76805739
+741,Liver,Intermountain Donor Services,Salt Lake City,Salt Lake County,Utah,UT,10/25/18,-111.8347774,40.76805739
+742,Heart,Intermountain Donor Services,Salt Lake City,Salt Lake County,Utah,UT,10/25/18,-111.8347774,40.76805739
+743,Lung,Intermountain Donor Services,Salt Lake City,Salt Lake County,Utah,UT,10/25/18,-111.8347774,40.76805739
+744,Kidney,Intermountain Donor Services,Salt Lake City,Salt Lake County,Utah,UT,10/25/18,-111.8403537,40.77147811
+745,Liver,Intermountain Donor Services,Salt Lake City,Salt Lake County,Utah,UT,10/25/18,-111.8403537,40.77147811
+746,Heart,Intermountain Donor Services,Salt Lake City,Salt Lake County,Utah,UT,10/25/18,-111.8403537,40.77147811
+747,Kidney,LifeNet Health,Virginia Beach,Norfolk City,Virginia,VA,10/25/18,-76.30146995,36.86166239
+748,Kidney,Washington Regional Transplant Community,Falls Church,Fairfax County,Virginia,VA,10/25/18,-77.22598322,38.85802661
+749,Pancreas,Washington Regional Transplant Community,Falls Church,Fairfax County,Virginia,VA,10/25/18,-77.22598322,38.85802661
+750,Heart,Washington Regional Transplant Community,Falls Church,Fairfax County,Virginia,VA,10/25/18,-77.22598322,38.85802661
+751,Lung,Washington Regional Transplant Community,Falls Church,Fairfax County,Virginia,VA,10/25/18,-77.22598322,38.85802661
+752,Kidney,LifeNet Health,Virginia Beach,Henrico County,Virginia,VA,10/25/18,-77.53778671,37.60368507
+753,Kidney,LifeNet Health,Virginia Beach,Richmond City,Virginia,VA,10/25/18,-77.42958759,37.54096209
+754,Pancreas,LifeNet Health,Virginia Beach,Richmond City,Virginia,VA,10/25/18,-77.42958759,37.54096209
+755,Pancreas Islet,LifeNet Health,Virginia Beach,Richmond City,Virginia,VA,10/25/18,-77.42958759,37.54096209
+756,Liver,LifeNet Health,Virginia Beach,Richmond City,Virginia,VA,10/25/18,-77.42958759,37.54096209
+757,Heart,LifeNet Health,Virginia Beach,Richmond City,Virginia,VA,10/25/18,-77.42958759,37.54096209
+758,Heart,LifeNet Health,Virginia Beach,Richmond City,Virginia,VA,10/25/18,-77.47029712,37.49829119
+759,Kidney,LifeNet Health,Virginia Beach,Norfolk City,Virginia,VA,10/25/18,-76.3047344,36.86236158
+760,Pancreas,LifeNet Health,Virginia Beach,Norfolk City,Virginia,VA,10/25/18,-76.3047344,36.86236158
+761,Heart,LifeNet Health,Virginia Beach,Norfolk City,Virginia,VA,10/25/18,-76.3047344,36.86236158
+762,Kidney,LifeNet Health,Virginia Beach,Charlottesville City,Virginia,VA,10/25/18,-78.49864594,38.03199406
+763,Pancreas,LifeNet Health,Virginia Beach,Charlottesville City,Virginia,VA,10/25/18,-78.49864594,38.03199406
+764,Pancreas Islet,LifeNet Health,Virginia Beach,Charlottesville City,Virginia,VA,10/25/18,-78.49864594,38.03199406
+765,Liver,LifeNet Health,Virginia Beach,Charlottesville City,Virginia,VA,10/25/18,-78.49864594,38.03199406
+766,Heart,LifeNet Health,Virginia Beach,Charlottesville City,Virginia,VA,10/25/18,-78.49864594,38.03199406
+767,Lung,LifeNet Health,Virginia Beach,Charlottesville City,Virginia,VA,10/25/18,-78.49864594,38.03199406
+768,Kidney,Center for Donation and Transplant,Albany,Chittenden County,Vermont,VT,10/25/18,-73.19654936,44.48066858
+769,Kidney,LifeCenter Northwest,Bellevue,King County,Washington,WA,10/25/18,-122.2833776,47.66421195
+770,Pancreas,LifeCenter Northwest,Bellevue,King County,Washington,WA,10/25/18,-122.2833776,47.66421195
+771,Liver,LifeCenter Northwest,Bellevue,King County,Washington,WA,10/25/18,-122.2833776,47.66421195
+772,Intestine,LifeCenter Northwest,Bellevue,King County,Washington,WA,10/25/18,-122.2833776,47.66421195
+773,Heart,LifeCenter Northwest,Bellevue,King County,Washington,WA,10/25/18,-122.2833776,47.66421195
+774,Kidney,LifeCenter Northwest,Bellevue,Spokane County,Washington,WA,10/25/18,-117.4130634,47.64834448
+775,Pancreas,LifeCenter Northwest,Bellevue,Spokane County,Washington,WA,10/25/18,-117.4130634,47.64834448
+776,Heart,LifeCenter Northwest,Bellevue,Spokane County,Washington,WA,10/25/18,-117.4130634,47.64834448
+777,Kidney,LifeCenter Northwest,Bellevue,King County,Washington,WA,10/25/18,-122.3208128,47.608576
+778,Pancreas,LifeCenter Northwest,Bellevue,King County,Washington,WA,10/25/18,-122.3208128,47.608576
+779,Liver,LifeCenter Northwest,Bellevue,King County,Washington,WA,10/25/18,-122.3208128,47.608576
+780,Kidney,LifeCenter Northwest,Bellevue,King County,Washington,WA,10/25/18,-122.3071548,47.6502295
+781,Pancreas,LifeCenter Northwest,Bellevue,King County,Washington,WA,10/25/18,-122.3071548,47.6502295
+782,Liver,LifeCenter Northwest,Bellevue,King County,Washington,WA,10/25/18,-122.3071548,47.6502295
+783,Intestine,LifeCenter Northwest,Bellevue,King County,Washington,WA,10/25/18,-122.3071548,47.6502295
+784,Heart,LifeCenter Northwest,Bellevue,King County,Washington,WA,10/25/18,-122.3071548,47.6502295
+785,Lung,LifeCenter Northwest,Bellevue,King County,Washington,WA,10/25/18,-122.3071548,47.6502295
+786,Vascularized Composite Allograft (VCA),LifeCenter Northwest,Bellevue,King County,Washington,WA,10/25/18,-122.3071548,47.6502295
+787,Kidney,LifeCenter Northwest,Bellevue,King County,Washington,WA,10/25/18,-122.3282571,47.60941406
+788,Pancreas,LifeCenter Northwest,Bellevue,King County,Washington,WA,10/25/18,-122.3282571,47.60941406
+789,Kidney,Wisconsin Donor Network,Milwaukee,Milwaukee County,Wisconsin,WI,10/25/18,-88.02480129,43.03848938
+790,Liver,Wisconsin Donor Network,Milwaukee,Milwaukee County,Wisconsin,WI,10/25/18,-88.02480129,43.03848938
+791,Heart,Wisconsin Donor Network,Milwaukee,Milwaukee County,Wisconsin,WI,10/25/18,-88.02480129,43.03848938
+792,Kidney,Wisconsin Donor Network,Milwaukee,Milwaukee County,Wisconsin,WI,10/25/18,-88.02869358,43.03836349
+793,Pancreas,Wisconsin Donor Network,Milwaukee,Milwaukee County,Wisconsin,WI,10/25/18,-88.02869358,43.03836349
+794,Liver,Wisconsin Donor Network,Milwaukee,Milwaukee County,Wisconsin,WI,10/25/18,-88.02869358,43.03836349
+795,Heart,Wisconsin Donor Network,Milwaukee,Milwaukee County,Wisconsin,WI,10/25/18,-88.02869358,43.03836349
+796,Lung,Wisconsin Donor Network,Milwaukee,Milwaukee County,Wisconsin,WI,10/25/18,-88.02869358,43.03836349
+797,Kidney,Wisconsin Donor Network,Milwaukee,Milwaukee County,Wisconsin,WI,10/25/18,-87.94943116,42.98858948
+798,Pancreas,Wisconsin Donor Network,Milwaukee,Milwaukee County,Wisconsin,WI,10/25/18,-87.94943116,42.98858948
+799,Liver,Wisconsin Donor Network,Milwaukee,Milwaukee County,Wisconsin,WI,10/25/18,-87.94943116,42.98858948
+800,Heart,Wisconsin Donor Network,Milwaukee,Milwaukee County,Wisconsin,WI,10/25/18,-87.94943116,42.98858948
+801,Kidney,UW Health Organ and Tissue Donation,Madison,Dane County,Wisconsin,WI,10/25/18,-89.4290914,43.0759982
+802,Pancreas,UW Health Organ and Tissue Donation,Madison,Dane County,Wisconsin,WI,10/25/18,-89.4290914,43.0759982
+803,Pancreas Islet,UW Health Organ and Tissue Donation,Madison,Dane County,Wisconsin,WI,10/25/18,-89.4290914,43.0759982
+804,Liver,UW Health Organ and Tissue Donation,Madison,Dane County,Wisconsin,WI,10/25/18,-89.4290914,43.0759982
+805,Intestine,UW Health Organ and Tissue Donation,Madison,Dane County,Wisconsin,WI,10/25/18,-89.4290914,43.0759982
+806,Heart,UW Health Organ and Tissue Donation,Madison,Dane County,Wisconsin,WI,10/25/18,-89.4290914,43.0759982
+807,Lung,UW Health Organ and Tissue Donation,Madison,Dane County,Wisconsin,WI,10/25/18,-89.4290914,43.0759982
+808,Kidney,Center for Organ Recovery and Education,Pittsburgh,Kanawha County,West Virginia,WV,10/25/18,-81.62616961,38.34715229
