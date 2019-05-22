@@ -44,6 +44,10 @@ class Organ_data(db.Model):
 def home():
     return render_template("index.html")
 
+@app.route("/map")
+def map():
+    return render_template("map.html")
+
 # create route that returns data for plotting
 @app.route("/Top_organs")
 def top_organs():
