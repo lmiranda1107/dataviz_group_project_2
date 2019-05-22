@@ -39,6 +39,36 @@ class Organ_data(db.Model):
     def __repr__(self):
         return '<Organ_data %r>' % (self.name)
 
+# create route that renders index.html template
+@app.route("/")
+def home():
+    return render_template("index.html")
+
+# create route that returns data for plotting
+@app.route("/Top_organs")
+def top_organs():
+    #this will return the top 5 organs based on most transplants done
+    #results = db.session.query(Organ_data.organ_transplantation_type, func.count(Organ_data.type)).group_by(Organ_data.type).limit(5).all()
+    results = db.session.query(Organ_data.organ_transplantation_type, Organ_data.count(Organ_data.type)).group_by(Organ_data.type).limit(5).all()
+    
+    trace = {
+        "x": Organ_data,
+        "y": Organ_data.count,
+        "type": "bar"
+    }
+    
+    return jsonify(trace)
+  #  Organ_data = [result[0] for result in results]
+   # age = [result[1] for result in results]
+'''
+    trace = {
+        "x": Organ_data,
+        "y": age,
+        "type": "bar"
+    }
+'''
+    
+
 #db.reflect()
 # reflect an existing database into a new model
 #Base = automap_base()
@@ -51,6 +81,8 @@ class Organ_data(db.Model):
 
 # Save references to the table from database
 #transplant_data = Base.classes.organ_data
+
+
 
 if __name__ == "__main__":
     app.run()
