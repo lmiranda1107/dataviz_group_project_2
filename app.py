@@ -42,7 +42,7 @@ class Organ_data(db.Model):
 # create route that renders index.html template
 @app.route("/")
 def home():
-    return render_template("index.html")
+    return render_template("dashboard.html")
 
 @app.route("/map")
 def map():
