@@ -28,83 +28,16 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
     integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
     crossorigin=""/>
+    <link href="assets/css/custom.css" rel="stylesheet" />
 </head>
 <body>
 
 <div class="wrapper">
-        <div class="sidebar" data-color="azure" data-image="assets/img/bi.jpg">
+    <div class="sidebar" data-color="azure" data-image="assets/img/bi.jpg">
 
     <!--   you can change the color of the sidebar using: data-color="blue | azure | green | orange | red | purple" -->
-
-
-     <!-- SIDEBAR editting to Group's liking -->
-     <div class="sidebar-wrapper">
-             <div class="logo">
-                 <a href="http://www.creative-tim.com" class="simple-text">
-                     Organ Donation Statistics
-                 </a>
-             </div>
-         <!-- Sidebar Button 1 content list with icons and pretty format-->
-             <ul class="nav">
-                 <li class="active">
-                     <a href="dashboard.html">
-                         <i class="pe-7s-graph"></i>
-                         <p>Dashboard</p>
-                     </a>
-                 </li>
-         <!-- Sidebar Button 2 -->
-                  <li>
-                     <a href="user.html">
-                         <i class="pe-7s-science"></i>
-                        <!-- <i class="pe-7s-user"></i> -->
-                         <p>ETL</p>
-                     </a>
-                 </li>
-         <!-- Sidebar Button 3 -->
-                 <li>
-                     <a href="table.html">
-                         <i class="pe-7s-note2"></i>
-                         <p>Data Table</p>
-                     </a>
-                 </li>
-         <!-- Sidebar Button 4 
-                 <li>
-                     <a href="typography.html">  
-                         <i class="pe-7s-news-paper"></i>
-                         <p>typography</p>
-                     </a>
-                 </li>-->
-         <!-- Sidebar Button 5 
-                 <li>
-                     <a href="icons.html">
-                         <i class="pe-7s-science"></i>
-                         <p>Icons</p>
-                     </a>
-                 </li> -->
-         <!-- Sidebar Button 6 -->
-                 <li>
-                     <a href="maps.html">
-                         <i class="pe-7s-map-marker"></i>
-                         <p>Map</p>
-                     </a>
-                 </li>
-         <!-- Sidebar Button 7 -->
-                 <li>
-                     <a href="notifications.html">
-                         <i class="pe-7s-bell"></i>
-                         <p>Fun Facts</p>
-                     </a>
-                 </li> 
-         <!-- Bottom Button with different styling -->
-                 <li class="active-pro">
-                     <a href="https://www.organdonor.gov/register.html?gclid=Cj0KCQjww47nBRDlARIsAEJ34bnARsi56mZRm37_MeKNqKyHYKB6S7blSFIlLZoTF5His-In6l3HhlkaAhnuEALw_wcB">
-                         <i class="pe-7s-rocket"></i>
-                         <p>Register for Donation</p>
-                     </a>
-                 </li>
-             </ul>
-         </div>
-     </div>
+    {% include 'snipets/sidebar.html' %}
+    </div>
 
     <!-- MAIN PANEL dashboard fitting-->
     <div class="main-panel">
@@ -184,21 +117,17 @@
     <script src="assets/js/bootstrap-notify.js"></script>
 
     <!--  Google Maps Plugin    -->
-    <!-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>-->
-    <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js" 
-    integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
-    crossorigin=""></script>
-   
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCvFm7YJB5Zhq0-Agj2NKaEKgmtxZHc2m8"></script>
+
+    <script src="assets/js/light-bootstrap-dashboard.js?v=1.4.0"></script>
+
+    <!-- Light Bootstrap Table DEMO methods, don't include it in your project! -->
+	<script src="assets/js/demo.js"></script>
+
     <script>
-        var ORGAN_DATA_FILE = "{{ url_for('static', filename='json/organ_transp_data.json') }}";
-        </script>
-        
-        <script src="{{ url_for('static', filename='js/map/index.js') }}"></script>
-    
-   <!-- <script>
         $().ready(function(){
             demo.initGoogleMaps();
         });
-    </script>-->
+    </script>
 
 </html>

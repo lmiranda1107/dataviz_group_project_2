@@ -38,73 +38,7 @@
             
                 -->
             
-                    <!-- SIDEBAR editting to Group's liking -->
-                    <div class="sidebar-wrapper">
-                        <div class="logo">
-                            <a href="http://www.creative-tim.com" class="simple-text">
-                                Organ Donation Statistics
-                            </a>
-                        </div>
-                    <!-- Sidebar Button 1 content list with icons and pretty format-->
-                        <ul class="nav">
-                            <li class="active">
-                                <a href="dashboard.html">
-                                    <i class="pe-7s-graph"></i>
-                                    <p>Dashboard</p>
-                                </a>
-                            </li>
-                    <!-- Sidebar Button 2 -->
-                             <li>
-                                <a href="user.html">
-                                    <i class="pe-7s-science"></i>
-                                   <!-- <i class="pe-7s-user"></i> -->
-                                    <p>ETL</p>
-                                </a>
-                            </li>
-                    <!-- Sidebar Button 3 -->
-                            <li>
-                                <a href="table.html">
-                                    <i class="pe-7s-note2"></i>
-                                    <p>Data Table</p>
-                                </a>
-                            </li>
-                    <!-- Sidebar Button 4 
-                            <li>
-                                <a href="typography.html">  
-                                    <i class="pe-7s-news-paper"></i>
-                                    <p>typography</p>
-                                </a>
-                            </li>-->
-                    <!-- Sidebar Button 5 
-                            <li>
-                                <a href="icons.html">
-                                    <i class="pe-7s-science"></i>
-                                    <p>Icons</p>
-                                </a>
-                            </li> -->
-                    <!-- Sidebar Button 6 -->
-                            <li>
-                                <a href="maps.html">
-                                    <i class="pe-7s-map-marker"></i>
-                                    <p>Map</p>
-                                </a>
-                            </li>
-                    <!-- Sidebar Button 7 -->
-                            <li>
-                                <a href="notifications.html">
-                                    <i class="pe-7s-bell"></i>
-                                    <p>Fun Facts</p>
-                                </a>
-                            </li> 
-                    <!-- Bottom Button with different styling -->
-                            <li class="active-pro">
-                                <a href="https://www.organdonor.gov/register.html?gclid=Cj0KCQjww47nBRDlARIsAEJ34bnARsi56mZRm37_MeKNqKyHYKB6S7blSFIlLZoTF5His-In6l3HhlkaAhnuEALw_wcB">
-                                    <i class="pe-7s-rocket"></i>
-                                    <p>Register for Donation</p>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
+                    {% include 'snipets/sidebar.html' %}
                 </div>
             
                 <!-- MAIN PANEL dashboard fitting-->
@@ -232,7 +166,7 @@
                             <!-- Row 2 TABLE -->
                          <div class="content table-responsive table-full-width">
                         <table class= "table table-hover table-striped"> 
-                        <iframe src = "convertcsv.htm" height="550" width= "1180">
+                        <iframe src = "assets/html/convertcsv.htm" height="550" width= "1180">
                         </iframe>
                         </table>    
                     </div>
