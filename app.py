@@ -32,7 +32,7 @@ db = SQLAlchemy(app)
 #Create database model (emoji exercise 15.3.3)
 #Create a class that defines what the table is and what columns are on the table
 class Organ_data(db.Model):
-    __tablename__ = 'organ_data'
+    __tablename__ = 'organ_data' db 
     #Define the Columns
     id = db.Column('id', db.Integer, primary_key=True) #takes in 3 arguments SQLAlchemy requires a primary key - https://www.youtube.com/watch?v=Tu4vRU4lt6k
     organ_transplantation_type = db.Column(db.String(64))
