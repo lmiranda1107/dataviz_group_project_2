@@ -1,9 +1,17 @@
+<div class="sidebar" data-color="azure" data-image="assets/img/sidebar-1.jpg">
+    <!--
+
+        Tip 1: you can change the color of the sidebar using: data-color="blue | azure | green | orange | red | purple"
+        Tip 2: you can also add an image using data-image tag
+
+    --> 
+
 <!-- SIDEBAR editting to Group's liking -->
 <div class="sidebar-wrapper">
     <div class="logo">
-        <a href="http://www.creative-tim.com" class="simple-text">
+        <a href="" class="simple-text"><b>
             Organ Donation Statistics
-        </a>
+        </b></a>
     </div>
  <!-- Sidebar Button 1 content list with icons and pretty format-->
     <ul class="nav">
@@ -66,15 +74,19 @@
              </a>
         </li>
 <!-- Sidebar Button 7 -->
+    {% if active == 'funfacts' %}
+        <li class="active">
+    {% else %}
         <li>
-            <a href="notifications.html">
+    {% endif %}
+            <a href="/funfacts">
                 <i class="pe-7s-bell"></i>
                 <p>Fun Facts</p>
             </a>
         </li>
 <!-- Bottom Button with different styling -->
         <li class="active-pro">
-            <a href="https://www.organdonor.gov/register.html?gclid=Cj0KCQjww47nBRDlARIsAEJ34bnARsi56mZRm37_MeKNqKyHYKB6S7blSFIlLZoTF5His-In6l3HhlkaAhnuEALw_wcB">
+            <a href="https://www.organdonor.gov/register.html?gclid=Cj0KCQjww47nBRDlARIsAEJ34bnARsi56mZRm37_MeKNqKyHYKB6S7blSFIlLZoTF5His-In6l3HhlkaAhnuEALw_wcB" target="_blank" >
                 <i class="pe-7s-rocket"></i>
                 <p>Register for Donation</p>
             </a>

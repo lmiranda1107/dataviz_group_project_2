@@ -1,8 +1,9 @@
+<!-- DASHBOARD TAB = DASHBOARD.HTML-->
 <!doctype html>
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
-	<link rel="icon" type="image/png" href="{{ url_for('static', filename='img/favicon.ico') }}">
+	<link rel="icon" type="image/png" href="{{ url_for('static', filename='img/heart.ico') }}">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
 	<title>Organ Donation Statistics</title>
@@ -30,13 +31,13 @@
 <body>
 
 <div class="wrapper">
-    <div class="sidebar" data-color="azure" data-image="assets/img/sidebar-1.jpg">
-    <!--
-
-        Tip 1: you can change the color of the sidebar using: data-color="blue | azure | green | orange | red | purple"
-        Tip 2: you can also add an image using data-image tag
-
-    -->
+<!--<div class="sidebar" data-color="azure" data-image="assets/img/sidebar-1.jpg">-->
+        <!--
+    
+            Tip 1: you can change the color of the sidebar using: data-color="blue | azure | green | orange | red | purple"
+            Tip 2: you can also add an image using data-image tag
+    
+        --> 
     {% include 'snipets/sidebar.html' %}
     </div>
 
@@ -52,44 +53,13 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#">DASHBOARD OF ORGAN DONATION IN THE UNITED STATES.</a>
+                    <a class="navbar-brand" href="#"> ORGAN DONATION IN THE US - SUMMARY</a>
                 </div>
                 
                   <!-- LEFT SIDE of navigation bar with icons -->
                   <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-left">
-                        <!--<li>
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                <i class="fa fa-dashboard"></i>
-								<p class="hidden-lg hidden-md">Dashboard</p>
-                            </a>
-                        </li>-->
-
-                        <!-- World Icon with a dropdown containing notifications
-                        <li class="dropdown">
-                              <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                    <i class="fa fa-globe"></i>
-                                    <b class="caret hidden-lg hidden-md"></b>
-									<p class="hidden-lg hidden-md">
-										5 Notifications
-										<b class="caret"></b>
-									</p>
-                              </a>
-                              <ul class="dropdown-menu">
-                                <li><a href="#">Notification 1</a></li>
-                                <li><a href="#">Notification 2</a></li>
-                                <li><a href="#">Notification 3</a></li>
-                                <li><a href="#">Notification 4</a></li>
-                                <li><a href="#">Another notification</a></li>
-                              </ul>
-                        </li> -->
-                        <!-- Search Icon 
-                        <li>
-                           <a href="">
-                                <i class="fa fa-search"></i>
-								<p class="hidden-lg hidden-md">Search</p>
-                            </a>
-                        </li> -->
+            
                     </ul>
                 
                      <!-- RIGHT SIDE of navigation bar with dropdown and other buttons no icons-->
@@ -141,8 +111,8 @@
              
                         <!-- Box with graph 1--> 
                         <div class="header">
-                            <h4 class="title">GRAPH 1</h4>
-                            <p class="category">"Graph 1 description"</p>
+                            <h4 class="title"><b>GRAPH 1</b></h4>
+                            <p class="category">This Pie Chart shows the percentage of the different types of organ tansplants performed last year</p>
                         </div>
                         <div class="content">
                             <div id="chartPreferences" class="ct-chart ct-perfect-fourth"></div>
@@ -165,7 +135,7 @@
                 <div class="col-md-8">
                     <div class="card">
                         <div class="header">
-                            <h4 class="title">GRAPH 2</h4>
+                            <h4 class="title"><b>GRAPH 2</b></h4>
                             <p class="category">"Graph 2 description"</p>
                         </div>
                         <div class="content">
@@ -192,7 +162,7 @@
                 <div class="col-md-6">
                     <div class="card ">
                         <div class="header">
-                            <h4 class="title">GRAPH 3</h4>
+                            <h4 class="title"><b>GRAPH 3</b></h4>
                             <p class="category">"Graph 3 description"</p>
                         </div>
                         <div class="content">
@@ -212,12 +182,12 @@
                     </div>
                 </div>
 <!----------------------------------------------------------------->
-
+                <!-- Check List in Dashboard -->
             <div class="col-md-6">
                 <div class="card ">
                     <div class="header">
-                        <h4 class="title">Fun Facts</h4>
-                        <p class="category">Some News</p>
+                        <h4 class="title"><b>Check List</b></h4>
+                       <!--- <p class="category">Some News</p> -->
                     </div>
                     <div class="content">
                         <div class="table-full-width">
@@ -230,7 +200,7 @@
                                                     <label for="checkbox1"></label>
                                                 </div>
                                         </td>
-                                        <td>Ya te registraste como donador de organos?</td>
+                                        <td>Did you already register for organ donation?</td>
                                         <td class="td-actions text-right">
                                             <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
                                                 <i class="fa fa-edit"></i>
@@ -247,7 +217,7 @@
                                                     <label for="checkbox2"></label>
                                                 </div>
                                         </td>
-                                        <td>blah blah blah</td>
+                                        <td>Have you told your friends and family about your wishes regarding organ donation?</td>
                                         <td class="td-actions text-right">
                                             <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
                                                 <i class="fa fa-edit"></i>
@@ -264,7 +234,7 @@
                                                     <label for="checkbox3"></label>
                                                 </div>
                                         </td>
-                                        <td>Blah Blah Blah
+                                        <td>Do you understand the facts and the myths related to organ donation?
                                         </td>
                                         <td class="td-actions text-right">
                                             <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
@@ -371,14 +341,14 @@
                 </li>
             </ul>
             </nav>
-            <!--<p class="copyright pull-right">
+            <p class="copyright pull-right">
             &copy; <script>document.write(new Date().getFullYear())</script> <a href="http://www.creative-tim.com">Creative Tim</a>, made with love for a better web
-            </p> -->
+            </p> 
             </div>
-            </footer>
+        </footer>
 
-            </div>
-            </div>
+    </div>
+ </div>
 
 
             </body>
@@ -407,7 +377,7 @@
                 })
             </script>
 
-            <!-- Light Bootstrap Table DEMO methods, don't include it in your project! 
+            <!-- Light Bootstrap Table DEMO methods, don't include it in your project! -->
             <script src="assets/js/demo.js"></script> 
 
             <script type="text/javascript">
@@ -426,6 +396,6 @@
             }); 
 
             });
-            </script>-->
+            </script>
 
             </html>
