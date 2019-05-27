@@ -25,7 +25,7 @@
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300' rel='stylesheet' type='text/css'>
     <link href="assets/css/pe-icon-7-stroke.css" rel="stylesheet" />
-
+    <link href="assets/css/custom.css" rel="stylesheet" />
 
 </head>
 <body>
@@ -118,10 +118,15 @@
                             <div id="chartPreferences" class="ct-chart ct-perfect-fourth"></div>
                             
                             <div class="footer">
-                                <div class="legend">
-                                    <i class="fa fa-circle text-info"></i> Graph 1 Info 1
-                                    <i class="fa fa-circle text-danger"></i> Graph 1 Info 2
-                                    <i class="fa fa-circle text-warning"></i> Graph 1 Info 3
+                                <div class="legend" id="pie-chart">
+                                    <i class="fa fa-circle orange-color"></i> Kidney
+                                    <i class="fa fa-circle purple-color"></i> Liver
+                                    <i class="fa fa-circle red-color"></i> Heart
+                                    <i class="fa fa-circle lightblue-color"></i> Pancreas
+                                    <i class="fa fa-circle darkcyan-color"></i> Pancreas Islet
+                                    <i class="fa fa-circle brown-color"></i> Intestine
+                                    <i class="fa fa-circle pink-color"></i> Lung
+                                    <i class="fa fa-circle yellow-color"></i> Vascularized Composite Allograft (VCA)
                                 </div>
                                 <hr>
                                <!-- <div class="stats">
@@ -131,35 +136,10 @@
                         </div>
                     </div>
                 </div>
-                <!-- Box with graph 2--> 
-                <div class="col-md-8">
-                    <div class="card">
-                        <div class="header">
-                            <h4 class="title"><b>GRAPH 2</b></h4>
-                            <p class="category">"Graph 2 description"</p>
-                        </div>
-                        <div class="content">
-                            <div id="chartHours" class="ct-chart"></div>
-                            <div class="footer">
-                                <div class="legend">
-                                    <i class="fa fa-circle text-info"></i> Graph 2 Info 1
-                                    <i class="fa fa-circle text-danger"></i> Graph 2 Info 2
-                                    <i class="fa fa-circle text-warning"></i> Graph 2 Info 3
-                                </div>
-                                <hr>
-                               <!-- <div class="stats">
-                                    <i class="fa fa-history"></i> Updated 3 minutes ago
-                                </div> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
 
-
-
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-12">
                     <div class="card ">
                         <div class="header">
                             <h4 class="title"><b>GRAPH 3</b></h4>
@@ -169,10 +149,10 @@
                             <div id="chartActivity" class="ct-chart"></div>
 
                             <div class="footer">
-                                <div class="legend">
+                                <!-- <div class="legend">
                                     <i class="fa fa-circle text-info"></i> Graph 3 Info
                                     <i class="fa fa-circle text-danger"></i> Graph 3 Details
-                                </div>
+                                </div> -->
                                 <hr>
                                 <div class="stats">
                                     <i class="fa fa-check"></i> Data information certified
@@ -182,133 +162,7 @@
                     </div>
                 </div>
 <!----------------------------------------------------------------->
-                <!-- Check List in Dashboard -->
-            <div class="col-md-6">
-                <div class="card ">
-                    <div class="header">
-                        <h4 class="title"><b>Check List</b></h4>
-                       <!--- <p class="category">Some News</p> -->
-                    </div>
-                    <div class="content">
-                        <div class="table-full-width">
-                            <table class="table">
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                            <div class="checkbox">
-                                                    <input id="checkbox1" type="checkbox">
-                                                    <label for="checkbox1"></label>
-                                                </div>
-                                        </td>
-                                        <td>Did you already register for organ donation?</td>
-                                        <td class="td-actions text-right">
-                                            <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
-                                                <i class="fa fa-edit"></i>
-                                            </button>
-                                            <button type="button" rel="tooltip" title="Remove" class="btn btn-danger btn-simple btn-xs">
-                                                <i class="fa fa-times"></i>
-                                            </button>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <div class="checkbox">
-                                                    <input id="checkbox2" type="checkbox" checked>
-                                                    <label for="checkbox2"></label>
-                                                </div>
-                                        </td>
-                                        <td>Have you told your friends and family about your wishes regarding organ donation?</td>
-                                        <td class="td-actions text-right">
-                                            <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
-                                                <i class="fa fa-edit"></i>
-                                            </button>
-                                            <button type="button" rel="tooltip" title="Remove" class="btn btn-danger btn-simple btn-xs">
-                                                <i class="fa fa-times"></i>
-                                            </button>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <div class="checkbox">
-                                                    <input id="checkbox3" type="checkbox">
-                                                    <label for="checkbox3"></label>
-                                                </div>
-                                        </td>
-                                        <td>Do you understand the facts and the myths related to organ donation?
-                                        </td>
-                                        <td class="td-actions text-right">
-                                            <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
-                                                <i class="fa fa-edit"></i>
-                                            </button>
-                                            <button type="button" rel="tooltip" title="Remove" class="btn btn-danger btn-simple btn-xs">
-                                                <i class="fa fa-times"></i>
-                                            </button>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <div class="checkbox">
-                                                    <input id="checkbox4" type="checkbox" checked>
-                                                    <label for="checkbox4"></label>
-                                                </div>
-                                        </td>
-                                        <td>Blah Blah Blah</td>
-                                        <td class="td-actions text-right">
-                                            <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
-                                                <i class="fa fa-edit"></i>
-                                            </button>
-                                            <button type="button" rel="tooltip" title="Remove" class="btn btn-danger btn-simple btn-xs">
-                                                <i class="fa fa-times"></i>
-                                            </button>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <div class="checkbox">
-                                                    <input id="checkbox5" type="checkbox">
-                                                    <label for="checkbox5"></label>
-                                                </div>
-                                        </td>
-                                        <td>Read "Following makes Medium better"</td>
-                                        <td class="td-actions text-right">
-                                            <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
-                                                <i class="fa fa-edit"></i>
-                                            </button>
-                                            <button type="button" rel="tooltip" title="Remove" class="btn btn-danger btn-simple btn-xs">
-                                                <i class="fa fa-times"></i>
-                                            </button>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <div class="checkbox">
-                                                    <input id="checkbox6" type="checkbox" checked>
-                                                    <label for="checkbox6"></label>
-                                                </div>
-                                        </td>
-                                        <td>Blah Blah Blah</td>
-                                        <td class="td-actions text-right">
-                                            <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
-                                                <i class="fa fa-edit"></i>
-                                            </button>
-                                            <button type="button" rel="tooltip" title="Remove" class="btn btn-danger btn-simple btn-xs">
-                                                <i class="fa fa-times"></i>
-                                            </button>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-
-                        <div class="footer">
-                            <hr>
-                            <div class="stats">
-                                <i class="fa fa-history"></i> Last Update 05/21/2019
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            
             </div>
             </div>
             </div>
@@ -371,31 +225,23 @@
 
             <script src="assets/js/demo.js"></script>
 
-            <script>
-                $(document).ready(function(){
-                    demo.initChartist();
-                })
-            </script>
-
-            <!-- Light Bootstrap Table DEMO methods, don't include it in your project! -->
-            <script src="assets/js/demo.js"></script> 
-
             <script type="text/javascript">
-            $(document).ready(function(){
+                $(document).ready(function(){
 
-            demo.initChartist();
+                    demo.initChartist();
 
-            $.notify({
-            icon: 'pe-7s-gift',
-            message: "Welcome to <b>Organ Donation Dashboard</b> - where you can learn important facts about organ donation and its statistics."
+                    $.notify(
+                        {
+                            icon: 'pe-7s-gift',
+                            message: "Welcome to <b>Organ Donation Dashboard</b> - where you can learn important facts about organ donation and its statistics."
+                        },
+                        {
+                            type: 'info',
+                            timer: 4000
+                        }
+                    ); 
 
-            },
-            {
-            type: 'info',
-            timer: 4000
-            }); 
-
-            });
+                });
             </script>
 
             </html>

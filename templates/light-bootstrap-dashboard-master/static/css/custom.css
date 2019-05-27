@@ -1,3 +1,67 @@
 #map {
-    height: 100vh;
+    height: 90vh;
+}
+
+.ct-series.pie-chart-Kidney > .ct-slice-pie{
+    fill: orange;
+}
+
+.ct-series.pie-chart-Liver > .ct-slice-pie{
+    fill: purple;
+}
+
+.ct-series.pie-chart-Heart > .ct-slice-pie{
+    fill: red;
+}
+
+.ct-series.pie-chart-Pancreas > .ct-slice-pie{
+    fill: lightblue;
+}
+
+.ct-series.pie-chart-Pancreas-Islet > .ct-slice-pie{
+    fill: darkcyan;
+}
+
+.ct-series.pie-chart-Intestine > .ct-slice-pie{
+    fill: brown;
+}
+
+.ct-series.pie-chart-Lung > .ct-slice-pie{
+    fill: pink;
+}
+
+.ct-series.pie-chart-Vascularized-Composite > .ct-slice-pie{
+    fill: yellow;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.purple-color {
+    color: purple;
+}
+
+.red-color {
+    color: red;
+}
+
+.lightblue-color {
+    color: lightblue;
+}
+
+.darkcyan-color {
+    color: darkcyan;
+}
+
+.brown-color {
+    color: brown;
+}
+
+.pink-color {
+    color: pink;
+}
+
+.yellow-color {
+    color: yellow;
 }

@@ -43,10 +43,25 @@ class Organ_data(db.Model):
     state_abbreviation = db.Column(db.String(64))
     data_warehouse_record_create_date_text = db.Column(db.String(64))
     geocoding__primary_x_coordinate = db.Column(db.Float)
-    geocoding_primary_y_coordinate = db.Column(db.Float)
+    geocoding__primary_y_coordinate = db.Column(db.Float)
    
     def __repr__(self):
-        return '<Organ_data %r>' % (self.name)
+        return '<Organ_data %r>' % (self.organ_transplantation_type)
+    
+    def serialize(self):
+        return {
+            "county": self.county,
+            "data_warehouse_record_create_date_text": self.data_warehouse_record_create_date_text,
+            "geocoding__primary_x_coordinate": self.geocoding__primary_x_coordinate,
+            "geocoding__primary_y_coordinate": self.geocoding__primary_y_coordinate,
+            "id": self.id,
+            "organ_procurement_organization_city": self.organ_procurement_organization_city,
+            "organ_procurement_organization_name": self.organ_procurement_organization_name,
+            "organ_transplantation_type": self.organ_transplantation_type,
+            "state": self.state,
+            "state_abbreviation": self.state_abbreviation
+        }
+
 
 #Create route that renders dashboard.html template
 @app.route("/")
@@ -78,7 +93,11 @@ def funfacts():
 
 @app.route("/chartdata", methods=['POST'])
 def chartdata():
-    print("pepee")
+    organs = Organ_data.query.all()
+    organ_list = []
+    for organ in organs:
+        organ_list.append(organ.serialize()) 
+    return jsonify({ "data" : organ_list })
 
 
 # create route that returns data for plotting
