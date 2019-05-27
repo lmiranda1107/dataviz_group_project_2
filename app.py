@@ -52,12 +52,12 @@ class Organ_data(db.Model):
 @app.route("/")
 def home():
     active_tab = "dashboard"
-    return render_template("dashboard.html", active = active_tab)
+    return render_template("index.html", active = active_tab)
 
 @app.route("/etl")
 def etl():
     active_tab = "etl"
-    return render_template("user.html", active = active_tab )
+    return render_template("etl.html", active = active_tab )
 
 
 @app.route("/table")
@@ -73,7 +73,7 @@ def map():
 @app.route("/funfacts")
 def funfacts():
     active_tab = "funfacts"
-    return render_template("notifications.html",  active = active_tab)
+    return render_template("funfacts.html",  active = active_tab)
 
 
 @app.route("/chartdata", methods=['POST'])
