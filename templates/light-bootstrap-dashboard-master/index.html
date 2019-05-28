@@ -1,0 +1,357 @@
+<!-- DASHBOARD TAB = DASHBOARD.HTML-->
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<link rel="icon" type="image/png" href="{{ url_for('static', filename='img/heart.ico') }}">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<title>Organ Donation Statistics</title>
+
+	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <meta name="viewport" content="width=device-width" />
+
+
+    <!-- Bootstrap core CSS     -->
+    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet" />
+
+    <!-- Animation library for notifications   -->
+    <link href="assets/css/animate.min.css" rel="stylesheet"/>
+
+    <!--  Light Bootstrap Table core CSS    -->
+    <link href="assets/css/light-bootstrap-dashboard.css?v=1.4.0" rel="stylesheet"/>
+
+    <!--     Fonts and icons     -->
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300' rel='stylesheet' type='text/css'>
+    <link href="assets/css/pe-icon-7-stroke.css" rel="stylesheet" />
+    <link href="assets/css/custom.css" rel="stylesheet" />
+
+</head>
+<body>
+
+<div class="wrapper">
+<!--<div class="sidebar" data-color="azure" data-image="assets/img/sidebar-1.jpg">-->
+        <!--
+    
+            Tip 1: you can change the color of the sidebar using: data-color="blue | azure | green | orange | red | purple"
+            Tip 2: you can also add an image using data-image tag
+    
+        --> 
+    {% include 'snipets/sidebar.html' %}
+    </div>
+
+    <!-- MAIN PANEL dashboard fitting-->
+    <div class="main-panel">
+        <nav class="navbar navbar-default navbar-fixed">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <!-- Dashboard button-->
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation-example-2">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#"><b> ORGAN DONATION IN THE US - SUMMARY</b></a>
+                </div>
+                
+                  <!-- LEFT SIDE of navigation bar with icons -->
+                  <div class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav navbar-left">
+            
+                    </ul>
+                
+                     <!-- RIGHT SIDE of navigation bar with dropdown and other buttons no icons-->
+                     <ul class="nav navbar-nav navbar-right">
+                        <li>
+                           <a href="https://github.com/CaroMuizzi">
+                               <!-- Please copy your Github repository to can redirect doing click -->
+                               <!-- Github click -->
+                               <p>Github / Code</p>
+                            </a>
+                        </li>
+                               <!-- Dropdown Menu -->
+                        <li class="dropdown">
+                              <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    <p>
+										Dropdown
+										<b class="caret"></b>
+									</p>
+                              </a>
+                              <ul class="dropdown-menu">
+                                <li><a href="#">Pie Chart</a></li>
+                                <li><a href="#">Bar Chart</a></li>
+                                <li><a href="#">Maps</a></li>
+                               <!-- <li><a href="#">GRAPH </a></li>
+                                <li><a href="#">Something</a></li>
+                                <li class="divider"></li>
+                                <li><a href="#">Separated link</a></li> -->
+                              </ul>
+                        </li>
+                               <!-- Log out click 
+                        <li>
+                            <a href="#">
+                                <p>Log out</p>
+                            </a>
+                        </li> -->
+						<li class="separator hidden-lg"></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+      <!-- Content in middle section with graphs-->
+       <!-- Fitting--> 
+       <div class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card">
+             
+                        <!-- Box with graph 1--> 
+                        <div class="header">
+                            <h4 class="title"><b>Transplants Per Organ Type</b></h4>
+                            <p class="category">This Pie Chart shows the % of the different types of organ tansplants performed in 2018</p>
+                        </div>
+                        <div class="content">
+                            <div id="chartPreferences" class="ct-chart ct-perfect-fourth"></div>
+                            
+                            <div class="footer">
+                                <div class="legend" id="pie-chart">
+                                    <i class="fa fa-circle orange-color"></i> Kidney
+                                    <i class="fa fa-circle purple-color"></i> Liver
+                                    <i class="fa fa-circle red-color"></i> Heart
+                                    <i class="fa fa-circle lightblue-color"></i> Pancreas
+                                    <i class="fa fa-circle darkcyan-color"></i> Pancreas Islet
+                                    <i class="fa fa-circle brown-color"></i> Intestine
+                                    <i class="fa fa-circle pink-color"></i> Lung
+                                    <i class="fa fa-circle yellow-color"></i> Vascularized Composite Allograft (VCA)
+                                </div>
+                                <hr>
+                               <!-- <div class="stats">
+                                    <i class="fa fa-clock-o"></i> Campaign sent 2 days ago
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-8">
+                        <div class="card ">
+                            <div class="header">
+                                <h4 class="title">Did you Know?</h4>
+                                <!--<p class="category">Some News</p>-->
+                            </div>
+                            <div class="content">
+                                <div class="table-full-width">
+                                    <table class="table">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <div class="checkbox">
+                                                            <input id="checkbox1" type="checkbox">
+                                                            <label for="checkbox1"></label>
+                                                        </div>
+                                                </td>
+                                                <td>One person donating their organs can save up to 8 lives. </td>
+                                                <td class="td-actions text-right">
+                                                     <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
+                                                        <i class="fa fa-edit"></i>
+                                                    </button>
+                                                    <button type="button" rel="tooltip" title="Remove" class="btn btn-danger btn-simple btn-xs">
+                                                        <i class="fa fa-times"></i>
+                                                    </button> 
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="checkbox">
+                                                            <input id="checkbox2" type="checkbox" checked>
+                                                            <label for="checkbox2"></label>
+                                                        </div>
+                                                </td>
+                                                <td>Every 10 minutes, someone is added to the national transplant 
+                                                        waiting list</td>
+                                                <td class="td-actions text-right">
+                                                    <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
+                                                        <i class="fa fa-edit"></i>
+                                                    </button>
+                                                    <button type="button" rel="tooltip" title="Remove" class="btn btn-danger btn-simple btn-xs">
+                                                        <i class="fa fa-times"></i>
+                                                    </button>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="checkbox">
+                                                            <input id="checkbox3" type="checkbox">
+                                                            <label for="checkbox3"></label>
+                                                        </div>
+                                                </td>
+                                                <td>You can donate organs and tissues while you’re alive.</td>
+                                                <td class="td-actions text-right">
+                                                    <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
+                                                        <i class="fa fa-edit"></i>
+                                                    </button>
+                                                    <button type="button" rel="tooltip" title="Remove" class="btn btn-danger btn-simple btn-xs">
+                                                        <i class="fa fa-times"></i>
+                                                    </button>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="checkbox">
+                                                            <input id="checkbox4" type="checkbox" checked>
+                                                            <label for="checkbox4"></label>
+                                                        </div>
+                                                </td>
+                                                <td>Elderly and chronically sick people can become organ donors.</td>
+                                                <td class="td-actions text-right">
+                                                    <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
+                                                        <i class="fa fa-edit"></i>
+                                                    </button>
+                                                    <button type="button" rel="tooltip" title="Remove" class="btn btn-danger btn-simple btn-xs">
+                                                        <i class="fa fa-times"></i>
+                                                    </button>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="checkbox">
+                                                            <input id="checkbox5" type="checkbox">
+                                                            <label for="checkbox5"></label>
+                                                        </div>
+                                                </td>
+                                                <td>Through tissue donation, one donor can save or enhance the lives of 75 others.</td>
+                                                <td class="td-actions text-right">
+                                                    <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
+                                                        <i class="fa fa-edit"></i>
+                                                    </button>
+                                                    <button type="button" rel="tooltip" title="Remove" class="btn btn-danger btn-simple btn-xs">
+                                                        <i class="fa fa-times"></i>
+                                                    </button>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="checkbox">
+                                                            <input id="checkbox6" type="checkbox" checked>
+                                                            <label for="checkbox6"></label>
+                                                        </div>
+                                                </td>
+                                                <td>Through corneal donation, one donor can restore sight to two people.</td>
+                                                <td class="td-actions text-right">
+                                                    <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
+                                                        <i class="fa fa-edit"></i>
+                                                    </button>
+                                                    <button type="button" rel="tooltip" title="Remove" class="btn btn-danger btn-simple btn-xs">
+                                                        <i class="fa fa-times"></i>
+                                                    </button>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+    
+                                <div class="footer">
+                                    <hr>
+                                    <div class="stats">
+                                            <i class="fa fa-check"></i> Data information certified
+                                    </div>
+                                    <hr>
+                                    <div class="stats">
+                                        <i class="fa fa-history"></i> Last Update 05/28/2019
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card ">
+                        <div class="header">
+                            <h4 class="title"><b>Organ Transplants Per State</b></h4>
+                            <p class="category">"This bar chart shows the number of organ transplants performed per state. As you can see some states have higher rates of transplantation than others. Head over to the Data Table to filter out the types of transplants per state."</p>
+                        </div>
+                        <div class="content">
+                            <div id="chartActivity" class="ct-chart"></div>
+
+                            <div class="footer">
+                                <!-- <div class="legend">
+                                    <i class="fa fa-circle text-info"></i> Graph 3 Info
+                                    <i class="fa fa-circle text-danger"></i> Graph 3 Details
+                                </div> -->
+                                <hr>
+                                <div class="stats">
+                                    <i class="fa fa-check"></i> Data information certified
+                                </div>
+                                <hr>
+                                <div class="stats">
+                                    <i class="fa fa-history"></i> Last Update 05/29/2019
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+<!----------------------------------------------------------------->
+            </div>
+            </div>
+        </div>
+
+        <!-- <footer class="footer">
+                <div class="container-fluid">
+                    <p class="copyright pull-right">
+                    &copy; <script>document.write(new Date().getFullYear())</script> <a href="http://www.creative-tim.com">Creative Tim</a>, made with love for a better web
+                    </p> 
+                </div>
+            </footer> -->
+            {% include 'snipets/footer.html' %}
+
+    </div>
+<!---------------------------------------------------------------------------------------------------------------------->
+
+    </div>
+ </div>
+
+
+            </body>
+
+            <!--   Core JS Files   -->
+            <script src="assets/js/jquery.3.2.1.min.js" type="text/javascript"></script>
+            <script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
+
+            <!--  Charts Plugin -->
+            <script src="assets/js/chartist.min.js"></script>
+
+            <!--  Notifications Plugin    -->
+            <script src="assets/js/bootstrap-notify.js"></script>
+
+            <!--  Google Maps Plugin    -->
+            <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
+
+            <!-- Light Bootstrap Table Core javascript and methods for Demo purpose -->
+            <script src="assets/js/light-bootstrap-dashboard.js?v=1.4.0"></script>
+
+            <script src="assets/js/demo.js"></script>
+
+            <script type="text/javascript">
+                $(document).ready(function(){
+
+                    demo.initChartist();
+
+                    $.notify(
+                        {
+                            icon: 'pe-7s-gift',
+                            message: "Welcome to <b>Organ Donation Dashboard</b> - where you can learn important facts about organ donation and its statistics."
+                        },
+                        {
+                            type: 'info',
+                            timer: 4000
+                        }
+                    ); 
+
+                });
+            </script>
+
+            </html>

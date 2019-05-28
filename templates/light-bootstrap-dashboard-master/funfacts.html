@@ -3,7 +3,7 @@
 <html lang="en">
         <head>
                 <meta charset="utf-8" />
-                <link rel="icon" type="image/png" href="assets/img/heart.ico">
+                <link rel="icon" type="image/png" href="assets/img/heart_icon">
                 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
             
                 <title>Organ Donation Statistics</title>
@@ -53,7 +53,7 @@
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
                                 </button>
-                                <a class="navbar-brand" href="#">ORGAN DONATION IN THE US - ETL</a>
+                                <a class="navbar-brand" href="#"><b>ORGAN DONATION IN THE US - FACTS </b></a>
                             </div>
                             <!-- ETL PAGE IS user.html -->
                             <!-- LEFT SIDE of navigation bar with icons -->
@@ -111,9 +111,10 @@
                                                 </p>
                                           </a>
                                           <ul class="dropdown-menu">
-                                            <li><a href="#">GRAPH 1</a></li>
-                                            <li><a href="#">GRAPH 2</a></li>
-                                            <li><a href="#">GRAPH 3</a></li>
+                                                <ul class="dropdown-menu">
+                                                        <li><a href="#">Pie Chart</a></li>
+                                                        <li><a href="#">Bar Chart</a></li>
+                                                        <li><a href="#">Maps</a></li>
                                            <!-- <li><a href="#">GRAPH </a></li>
                                             <li><a href="#">Something</a></li>
                                             <li class="divider"></li>
@@ -135,13 +136,18 @@
                             <div class="container-fluid">
                                 <div class="card">
                                     <div class="header">
-                                        <h4 class="title">EXTRACT - TRANSFORM - LOAD.</h4>
+                                        <h4 class="title"><b>Many People Don't Sign Up for Organs Donation Due to Myths and Misperceptions. </b></h4>
+                                        <h5 class="subtitle">You can help bust the myths about organ donation—and help save lives—by learning and sharing these facts.
+
+                                        </h5>
+
+                                        <p class="category">For More Information Refer to: <a target="_blank" href="https://data.hrsa.gov/">HRSA</a> and  <a href="https://unos.org/" target="_blank">UNOS.</a></p>
                 
                                     </div>
                                     <div class="content">
                                         <div class="row">
                                             <div class="col-md-6">
-                                                <h5>FACTS</h5>
+                                                <h5><b>FACTS</b></h5>
                                                 <div class="alert alert-info">
                                                     <span>A national computer system and strict standards are in place to ensure ethical and fair distribution of organs. 
                                                     Organs are matched by blood and tissue typing, organ size, medical urgency, waiting time and geographic location.</span>
@@ -160,7 +166,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
-                                                <h5>MYTHS</h5>
+                                                <h5><b>MYTHS</b></h5>
                                                 <div class="alert alert-warning">
                                                     <span><b> I have a medical condition, so I can't be a donor - </b> Anyone, regardless of age or medical history, can sign up to be a donor. </span>
                                                 </div>
@@ -323,37 +329,14 @@
         </div> --> 
 
 
-        <footer class="footer">
-            <div class="container-fluid">
-                <nav class="pull-left">
-                    <ul>
-                        <li>
-                            <a href="#">
-                                Home
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                Company
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                Portfolio
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                               Blog
-                            </a>
-                        </li>
-                    </ul>
-                </nav>
+        <!-- <footer class="footer">
+            <div class="container-fluid">             
                 <p class="copyright pull-right">
                     &copy; <script>document.write(new Date().getFullYear())</script> <a href="http://www.creative-tim.com">Creative Tim</a>, made with love for a better web
                 </p>
             </div>
-        </footer>
+        </footer> -->
+        {% include 'snipets/footer.html' %}
 
     </div>
 </div>
