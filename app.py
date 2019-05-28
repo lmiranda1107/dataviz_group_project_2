@@ -100,57 +100,5 @@ def chartdata():
     return jsonify({ "data" : organ_list })
 
 
-# create route that returns data for plotting
-@app.route("/Top_organs_chart")
-def top_organs_chart():
-   # this will return the top 5 organs based on most transplants done
-    results = db.session.query(Organ_data.organ_transplantation_type, func.count(Organ_data.organ_transplantation_type)).group_by(Organ_data.organ_transplantation_type).all()
-#   results = db.session.query(Organ_data.organ_transplantation_type, Organ_data.count(Organ_data.type)).group_by(Organ_data.type).limit(5).all()
-    
-    organ_type = [result[0] for result in results]
-    id = [result[1] for result in results]
-
-    trace = {
-        "x": organ_type,
-        "y": id,
-        "type": "bar"
-    }
-
-    return jsonify(trace)
-
-
 if __name__ == "__main__":
     app.run()
-
-#db.reflect()
-# reflect an existing database into a new model
-#Base = automap_base()
-
-# reflect the tables
-#Base.prepare(db.engine, reflect=True)
-
-# Create our session (link) from Python to the DB
-#session = Session(engine)
-
-# Save references to the table from database
-#transplant_data = Base.classes.organ_data
-
-
-
-#if __name__ == "__main__":
- #   app.run()
-
-
-'''
-#Create 1st Chart (Donut)
-@app.route("/ct-chart")
-def organ_data_donut():
-    
-    # Query for the top 5 organ data
-    count_results = 
-    count = db.session.query(Organ_data.ct-chart, Emoji.score).\
-
-
-if __name__ == "__main__":
-    app.run(debug=True)
-'''
