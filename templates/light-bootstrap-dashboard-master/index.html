@@ -80,9 +80,9 @@
 									</p>
                               </a>
                               <ul class="dropdown-menu">
-                                <li><a href="#">GRAPH 1</a></li>
-                                <li><a href="#">GRAPH 2</a></li>
-                                <li><a href="#">GRAPH 3</a></li>
+                                <li><a href="#">Pie Chart</a></li>
+                                <li><a href="#">Bar Chart</a></li>
+                                <li><a href="#">Maps</a></li>
                                <!-- <li><a href="#">GRAPH </a></li>
                                 <li><a href="#">Something</a></li>
                                 <li class="divider"></li>
@@ -111,8 +111,8 @@
              
                         <!-- Box with graph 1--> 
                         <div class="header">
-                            <h4 class="title"><b>GRAPH 1</b></h4>
-                            <p class="category">This Pie Chart shows the percentage of the different types of organ tansplants performed last year</p>
+                            <h4 class="title"><b>Transplants Per Organ Type</b></h4>
+                            <p class="category">This Pie Chart shows the % of the different types of organ tansplants performed in 2018</p>
                         </div>
                         <div class="content">
                             <div id="chartPreferences" class="ct-chart ct-perfect-fourth"></div>
@@ -155,12 +155,12 @@
                                                 </td>
                                                 <td>One person donating their organs can save up to 8 lives. </td>
                                                 <td class="td-actions text-right">
-                                                    <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
+                                                     <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
                                                         <i class="fa fa-edit"></i>
                                                     </button>
                                                     <button type="button" rel="tooltip" title="Remove" class="btn btn-danger btn-simple btn-xs">
                                                         <i class="fa fa-times"></i>
-                                                    </button>
+                                                    </button> 
                                                 </td>
                                             </tr>
                                             <tr>
@@ -260,7 +260,7 @@
                                     </div>
                                     <hr>
                                     <div class="stats">
-                                        <i class="fa fa-history"></i> Last Update 05/21/2019
+                                        <i class="fa fa-history"></i> Last Update 05/28/2019
                                     </div>
                                 </div>
                             </div>
@@ -271,8 +271,8 @@
                 <div class="col-md-12">
                     <div class="card ">
                         <div class="header">
-                            <h4 class="title"><b>GRAPH 3</b></h4>
-                            <p class="category">"Graph 3 description"</p>
+                            <h4 class="title"><b>Organ Transplants Per State</b></h4>
+                            <p class="category">"This bar chart shows the number of organ transplants performed per state. As you can see some states have higher rates of transplantation than others. Head over to the Data Table to filter out the types of transplants per state."</p>
                         </div>
                         <div class="content">
                             <div id="chartActivity" class="ct-chart"></div>
@@ -286,6 +286,10 @@
                                 <div class="stats">
                                     <i class="fa fa-check"></i> Data information certified
                                 </div>
+                                <hr>
+                                <div class="stats">
+                                    <i class="fa fa-history"></i> Last Update 05/29/2019
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -295,13 +299,15 @@
             </div>
         </div>
 
-        <footer class="footer">
+        <!-- <footer class="footer">
                 <div class="container-fluid">
                     <p class="copyright pull-right">
                     &copy; <script>document.write(new Date().getFullYear())</script> <a href="http://www.creative-tim.com">Creative Tim</a>, made with love for a better web
                     </p> 
                 </div>
-            </footer>
+            </footer> -->
+            {% include 'snipets/footer.html' %}
+
     </div>
 <!---------------------------------------------------------------------------------------------------------------------->
 

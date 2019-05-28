@@ -63,7 +63,7 @@ class Organ_data(db.Model):
         }
 
 
-#Create route that renders dashboard.html template
+#Create routes that render all .html tabs
 @app.route("/")
 def home():
     active_tab = "dashboard"
@@ -90,7 +90,7 @@ def funfacts():
     active_tab = "funfacts"
     return render_template("funfacts.html",  active = active_tab)
 
-
+#Create route for charts that comes from API 
 @app.route("/chartdata", methods=['POST'])
 def chartdata():
     organs = Organ_data.query.all()
